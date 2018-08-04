@@ -1,0 +1,1 @@
+draw_surface_ext(paint_surf,1,1,3,3,0,c_white,1);
