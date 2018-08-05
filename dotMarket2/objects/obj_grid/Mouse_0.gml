@@ -19,12 +19,24 @@ if (_x == last_x && _y == last_y)
 last_x = _x;
 last_y = _y;
 
-// remove old tile if applicable and place new one
-if ( paint_grid[# _x, _y] != paletteColour.blank)
-	obj_MCP.stock[paint_grid[# _x, _y]]++;
+if (current_colour == paletteColour.blank ||
+	obj_MCP.stock[current_colour] > 0) {
+		
+	if (first_change) {
+		//backup undo
+		ds_grid_copy(undo_grid,paint_grid);
+		array_copy(obj_MCP.undo_array,0,obj_MCP.stock,0,array_length_1d(obj_MCP.stock));
+		
+		first_change = false;
+	}
 
-paint_grid[# _x, _y] = current_colour;
-obj_MCP.stock[current_colour]--;
+	// remove old tile if applicable and place new one
+	if ( paint_grid[# _x, _y] != paletteColour.blank)
+		obj_MCP.stock[paint_grid[# _x, _y]]++;
 
-update_paint_surf();
-print(_x, ", ", _y);
+	paint_grid[# _x, _y] = current_colour;
+	if (current_colour != paletteColour.blank)
+		obj_MCP.stock[current_colour]--;
+
+	update_paint_surf();
+}

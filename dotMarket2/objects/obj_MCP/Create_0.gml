@@ -20,3 +20,6 @@ palette[paletteColour.black] = make_colour_rgb(0,0,0);
 for (var i=1; i<paletteColour.maxi; i++) {
 	stock[i] = 100;
 }
+
+undo_array = array_create(1);
+array_copy(undo_array,0,stock,0,array_length_1d(stock));
