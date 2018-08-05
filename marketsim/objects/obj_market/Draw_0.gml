@@ -12,4 +12,5 @@ for (var i=0; i<data_len; i++) {
 	draw_rectangle(1+(i*6), room_height-1, 5+(i*6), room_height-1-data[| i],false);
 }
 
-draw_text(0, 0, string(time_elapsed) + " ms");
+draw_text(0, 0, string(time_elapsed) + " ms\n"
+				+ "Demand: " +string(demand) + "/" + string(demand_max) + "\n");
