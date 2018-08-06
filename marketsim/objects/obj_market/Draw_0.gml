@@ -13,4 +13,4 @@ for (var i=0; i<data_len; i++) {
 }
 
 draw_text(0, 0, string(time_elapsed) + " ms\n"
-				+ "Demand: " +string(demand) + "/" + string(demand_max) + "\n");
+				+ "buy Chance: " + string(buy_chance) + "\n");

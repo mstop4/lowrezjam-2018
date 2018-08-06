@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "173ee7c6-c0ba-4f0a-9248-13bad41496bd",
-            "Value": {
-                "id": "d80d5e1c-4832-43f8-b7bd-7ff4bd8fbda4",
-                "resourcePath": "objects\\obj_market\\obj_market.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "22eef7f1-a44b-433f-85e8-9d8287b06c97",
             "Value": {
                 "id": "02ffe47b-5f64-47a5-a733-11cd8f97a400",
@@ -148,6 +140,14 @@
                 "id": "d93001d2-22a2-437a-b515-dfbdf3984221",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "846969cc-b816-42e0-874b-101987cb2d91",
+            "Value": {
+                "id": "bd9dbdca-303a-4458-9bd9-26e6a708bba3",
+                "resourcePath": "objects\\obj_market\\obj_market.yy",
+                "resourceType": "GMObject"
             }
         },
         {
