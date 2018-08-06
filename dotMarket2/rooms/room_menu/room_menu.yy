@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "f5ee09e0-e526-4b3f-ad39-5522ee1c824e"
+        "f5ee09e0-e526-4b3f-ad39-5522ee1c824e",
+        "1f561d87-ec5f-4222-a4fe-5cbb6b1eab2a"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +26,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_2307046A","id": "f5ee09e0-e526-4b3f-ad39-5522ee1c824e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2307046A","objId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920","properties": [{"id": "78eb0320-eb05-466a-9810-4c43296bf695","modelName": "GMOverriddenProperty","objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920","propertyId": "b4ac2699-e02f-4319-be90-c84964baab1b","mvc": "1.0","value": "room_design"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 56,"y": 56}
+{"name": "inst_2307046A","id": "f5ee09e0-e526-4b3f-ad39-5522ee1c824e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2307046A","objId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920","properties": [{"id": "78eb0320-eb05-466a-9810-4c43296bf695","modelName": "GMOverriddenProperty","objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920","propertyId": "b4ac2699-e02f-4319-be90-c84964baab1b","mvc": "1.0","value": "room_design"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 56,"y": 56},
+{"name": "inst_287BA768","id": "1f561d87-ec5f-4222-a4fe-5cbb6b1eab2a","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_287BA768","objId": "139e75e0-789f-469a-8474-08b0e9805eb1","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 0,"y": 0}
             ],
             "layers": [
 

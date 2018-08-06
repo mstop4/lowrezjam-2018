@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "139e75e0-789f-469a-8474-08b0e9805eb1",
+            "Value": {
+                "id": "d51bab87-cc46-43ac-97e8-3e62266a7e8d",
+                "resourcePath": "objects\\obj_menu\\obj_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1c1facd2-b8f2-4c6d-aaea-155dbd594e06",
             "Value": {
                 "id": "88275c2b-067d-4bff-87f8-c82227cf89ea",
@@ -106,7 +114,7 @@
             "Key": "37017c5f-2525-4344-be42-a5cd989f1baf",
             "Value": {
                 "id": "74635e84-1f7c-43b9-b325-940e196e366c",
-                "resourcePath": "scripts\\update_paint_surf\\update_paint_surf.yy",
+                "resourcePath": "scripts\\render_grid\\render_grid.yy",
                 "resourceType": "GMScript"
             }
         },

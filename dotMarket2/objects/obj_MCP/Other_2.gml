@@ -22,10 +22,17 @@ palette[paletteColour.gray] = make_colour_rgb(128,128,128);
 palette[paletteColour.black] = make_colour_rgb(0,0,0);
 
 for (var i=1; i<paletteColour.maxi; i++) {
-	stock[i] = 100;
-	price[i] = 50;
-	fair_price[i] = 50;
+	dot_stock[i] = 100;
+	undo_dot_stock[i] = 100;
+	dot_price[i] = 50;
+	dot_fair_price[i] = 50;
 }
+
+for (var i=0; i<6; i++) {
+	pattern_storage[i] = ds_grid_create(16,16);
+}
+
+current_pattern = 0;
 
 price_delta_success = 1;
 price_delta_fail = -1;
