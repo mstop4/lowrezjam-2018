@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "1c1facd2-b8f2-4c6d-aaea-155dbd594e06",
+            "Value": {
+                "id": "88275c2b-067d-4bff-87f8-c82227cf89ea",
+                "resourcePath": "rooms\\room_menu\\room_menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "26985bac-0c7b-44c7-ac9e-705d8bc88d32",
             "Value": {
                 "id": "c5b60d56-9150-4d2a-b8e2-a87282afdf30",
@@ -84,6 +92,14 @@
                 "id": "aec0699c-224c-44ac-99a6-79d0052d69f2",
                 "resourcePath": "views\\2f18ccda-4102-4858-8aaa-a3485ca738d9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "307be9dd-3446-4a82-a268-8074b4efc39f",
+            "Value": {
+                "id": "a8252737-9715-4b9a-9145-aff69753b154",
+                "resourcePath": "rooms\\room_title\\room_title.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -186,7 +202,7 @@
             "Key": "71a0f859-3a38-4c75-9c54-9dc65a00d568",
             "Value": {
                 "id": "7c0f40db-f63d-4a6d-b1d9-22058dce47da",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_design\\room_design.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -196,6 +212,14 @@
                 "id": "4ddd238c-8c9e-4ea9-aba7-6c344c5ba373",
                 "resourcePath": "views\\73408d5d-95c1-4080-a1ef-8b73087b6b70.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
+            "Value": {
+                "id": "91d9eeaf-5a78-4f82-b40a-241ca705e333",
+                "resourcePath": "objects\\obj_button\\obj_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -220,6 +244,14 @@
                 "id": "e7b39e88-d78d-4f03-8287-24393db62e9d",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "846969cc-b816-42e0-874b-101987cb2d91",
+            "Value": {
+                "id": "41f1d6d3-92ff-4e06-9f2d-11c047e2a9ab",
+                "resourcePath": "objects\\obj_market\\obj_market.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -1,0 +1,1 @@
+fair_price = get_integer("Fair Price", fair_price);
