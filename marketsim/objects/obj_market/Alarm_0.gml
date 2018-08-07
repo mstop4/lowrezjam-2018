@@ -7,7 +7,7 @@ for (var i=0; i<num_sims_per_day; i++) {
 	roll = random(1);
 	
 	if (roll <= buy_chance) {
-		price = min(price+price_delta_success,999);
+		price = min(price+price_delta_success,99);
 	}
 	else
 		price = max(price+price_delta_fail,0);
