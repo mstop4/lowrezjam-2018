@@ -1,5 +1,5 @@
 with (obj_MCP) {
-	array_copy(stock,0,undo_dot_stock,0,array_length_1d(dot_stock));
+	ds_list_copy(stock,undo_dot_stock);
 }
 
 with (obj_grid) {

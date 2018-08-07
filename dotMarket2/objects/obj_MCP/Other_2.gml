@@ -21,11 +21,16 @@ palette[paletteColour.white] = make_colour_rgb(255,255,255);
 palette[paletteColour.gray] = make_colour_rgb(128,128,128);
 palette[paletteColour.black] = make_colour_rgb(0,0,0);
 
+dot_stock = ds_list_create();
+undo_dot_stock = ds_list_create();
+dot_price = ds_list_create();
+dot_fair_price = ds_list_create();
+
 for (var i=1; i<paletteColour.maxi; i++) {
-	dot_stock[i] = 100;
-	undo_dot_stock[i] = 100;
-	dot_price[i] = 50;
-	dot_fair_price[i] = 50;
+	ds_list_add(dot_stock,100);
+	ds_list_add(undo_dot_stock,100);
+	ds_list_add(dot_price,50);
+	ds_list_add(dot_fair_price,50);
 }
 
 for (var i=0; i<6; i++) {
@@ -37,3 +42,5 @@ current_pattern = 0;
 price_delta_success = 1;
 price_delta_fail = -1;
 num_sims_per_day = 100;
+
+load_game();
