@@ -1,1 +1,0 @@
-print("Working directory: ", working_directory);
