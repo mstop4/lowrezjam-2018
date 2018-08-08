@@ -1,5 +1,9 @@
-if (file_exists("save.dat")) {
-	var file = file_text_open_read("save.dat");
+/// @arg file_path
+
+var _file_path = argument[0];
+
+if (file_exists(_file_path)) {
+	var file = file_text_open_read(_file_path);
 	var cur_data;
 	
 	// Stats

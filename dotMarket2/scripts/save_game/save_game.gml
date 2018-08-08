@@ -1,4 +1,8 @@
-var file = file_text_open_write("save.dat");
+/// @arg file_path
+
+var _file_path = argument[0];
+
+var file = file_text_open_write(_file_path);
 var cur_data;
 	
 // Stats
