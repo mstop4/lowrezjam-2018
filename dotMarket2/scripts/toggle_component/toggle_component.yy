@@ -1,8 +1,8 @@
 {
-    "id": "24a1917b-f888-4e17-b67b-6f807e20e0a6",
+    "id": "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "init_child_component",
+    "name": "toggle_component",
     "IsCompatibility": false,
     "IsDnD": false
 }

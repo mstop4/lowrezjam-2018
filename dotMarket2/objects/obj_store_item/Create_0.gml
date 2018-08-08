@@ -1,10 +1,5 @@
-buy_button = instance_create_layer(x,y,"Instances",obj_buy_button);
-init_child_component(buy_button,id,3,16,1);
-update_child_component(buy_button);
-
-history_button = instance_create_layer(x,y,"Instances",obj_history_button);
-init_child_component(history_button,id,-3,16,1);
-update_child_component(history_button);
+children[0] = create_child_component(obj_buy_button,id,4,16,1);
+children[1] = create_child_component(obj_history_button,id,-4,16,1);
 
 transitioning = false;
 start_alpha = 1;

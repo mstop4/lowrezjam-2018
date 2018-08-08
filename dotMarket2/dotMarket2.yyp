@@ -186,7 +186,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\/init_child_component\/init_child_component.yy",
+                "resourcePath": "scripts\/create_child_component\/create_child_component.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -913,6 +913,25 @@
             }
         },
         {
+            "Key": "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f",
+            "Value": {
+                "id": "3febfaa3-76c8-4138-a211-fdfc950c32d1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/toggle_component\/toggle_component.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b954f6b8-cfc3-4369-9231-75fbb9f323ba",
             "Value": {
                 "id": "51944143-7ef8-4f21-8274-b0fff47d8ef5",
@@ -1245,7 +1264,8 @@
         "68ebd70c-ec94-4aab-a79b-5b386ed392b4",
         "d6bcd853-0bdd-441a-bc9d-422de94a2e6d",
         "61b84a6e-1767-4233-a847-b9f424479956",
-        "24a1917b-f888-4e17-b67b-6f807e20e0a6"
+        "24a1917b-f888-4e17-b67b-6f807e20e0a6",
+        "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f"
     ],
     "tutorial": ""
 }
