@@ -1,3 +1,5 @@
+save_game(SAVE_PATH);
+
 font_delete(global.fnt_pix);
 
 ds_list_destroy(dot_stock);

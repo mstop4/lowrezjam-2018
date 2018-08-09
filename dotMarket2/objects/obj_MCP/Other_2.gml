@@ -30,7 +30,7 @@ dot_fair_price = ds_list_create();
 for (var i=0; i<paletteColour.maxi; i++) {
 	ds_list_add(dot_stock,100);
 	ds_list_add(undo_dot_stock,100);
-	ds_list_add(dot_price,50);
+	ds_list_add(dot_price,irandom_range(40,60));
 	ds_list_add(dot_fair_price,50);
 }
 
