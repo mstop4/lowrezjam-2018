@@ -134,25 +134,6 @@
             }
         },
         {
-            "Key": "128186ba-ef63-4f82-b435-1839d605e5ab",
-            "Value": {
-                "id": "aee767cc-facd-4bca-84b8-22ed04e48ea8",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/obj_buy_quantity\/obj_buy_quantity.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "139e75e0-789f-469a-8474-08b0e9805eb1",
             "Value": {
                 "id": "d51bab87-cc46-43ac-97e8-3e62266a7e8d",
@@ -264,6 +245,25 @@
                 ],
                 "resourcePath": "rooms\/room_template\/room_template.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2c99a3e2-7f57-4780-bc0b-fd72657a831c",
+            "Value": {
+                "id": "8e932f50-fb83-469f-a1fa-36b12136d581",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/pad_string\/pad_string.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1360,7 +1360,8 @@
         "61b84a6e-1767-4233-a847-b9f424479956",
         "24a1917b-f888-4e17-b67b-6f807e20e0a6",
         "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f",
-        "acbcfe6c-a6cb-4a3c-8477-2798c5a4fabb"
+        "acbcfe6c-a6cb-4a3c-8477-2798c5a4fabb",
+        "2c99a3e2-7f57-4780-bc0b-fd72657a831c"
     ],
     "tutorial": ""
 }
