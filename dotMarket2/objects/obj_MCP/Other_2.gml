@@ -49,4 +49,4 @@ price_delta_success = 1;
 price_delta_fail = -1;
 num_sims_per_day = 100;
 
-load_game(SAVE_PATH);
+//load_game(SAVE_PATH);
