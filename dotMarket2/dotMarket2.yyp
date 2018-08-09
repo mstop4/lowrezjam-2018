@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "536407cb-d916-41ff-955c-e2c6006649e0",
+            "Value": {
+                "id": "0e46cb97-9648-4ad1-8960-e9736d3f2854",
+                "resourcePath": "objects\\obj_market_buy\\obj_market_buy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5480f8c9-9950-4c95-b0f6-939c17ec6857",
             "Value": {
                 "id": "26c1ea8b-22f5-465a-800d-8a47567bc100",
@@ -268,6 +276,14 @@
                 "id": "a2c0dde2-b9a2-4adf-9d8e-3c187741052f",
                 "resourcePath": "sprites\/spr_erase\/spr_erase.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "Value": {
+                "id": "7d99bcf4-3ee3-47c1-a676-1144c0faa27b",
+                "resourcePath": "objects\\obj_submenu_button\\obj_submenu_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -503,14 +519,6 @@
             }
         },
         {
-            "Key": "f2b249d2-6472-4a52-868d-8ddaa8ae3a81",
-            "Value": {
-                "id": "4ac0d195-c63a-49bc-992e-4695aaca59d1",
-                "resourcePath": "objects\/obj_buy_button\/obj_buy_button.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "f3917e7b-95e1-47cb-884c-1b09b8774860",
             "Value": {
                 "id": "70ebfc88-a251-42f1-95b2-ea25fde949df",
@@ -539,14 +547,6 @@
             "Value": {
                 "id": "2830b7d2-5452-4569-a3a3-18a9118a018b",
                 "resourcePath": "objects\/obj_save_button\/obj_save_button.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "fd0adb10-96aa-4510-88ad-da9df672716f",
-            "Value": {
-                "id": "74b92964-174d-411a-b744-b83ae8118f6e",
-                "resourcePath": "objects\/obj_history_button\/obj_history_button.yy",
                 "resourceType": "GMObject"
             }
         }
