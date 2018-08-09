@@ -7,6 +7,8 @@ if (file_exists(_file_path)) {
 	var cur_data;
 	
 	// Stats
+	ds_map_read(obj_MCP.stats, file_text_read_string(file));
+	file_text_readln(file);	
 	ds_list_read(obj_MCP.dot_stock, file_text_read_string(file));
 	file_text_readln(file);
 	ds_list_read(obj_MCP.undo_dot_stock, file_text_read_string(file));

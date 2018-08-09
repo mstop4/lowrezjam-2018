@@ -1,8 +1,8 @@
 {
-    "id": "68ebd70c-ec94-4aab-a79b-5b386ed392b4",
+    "id": "acbcfe6c-a6cb-4a3c-8477-2798c5a4fabb",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "save_game_encode",
+    "name": "pulse",
     "IsCompatibility": false,
     "IsDnD": false
 }

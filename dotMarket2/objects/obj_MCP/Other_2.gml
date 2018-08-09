@@ -22,10 +22,15 @@ palette[paletteColour.white] = make_colour_rgb(255,255,255);
 palette[paletteColour.gray] = make_colour_rgb(128,128,128);
 palette[paletteColour.black] = make_colour_rgb(0,0,0);
 
+stats = ds_map_create();
 dot_stock = ds_list_create();
 undo_dot_stock = ds_list_create();
 dot_price = ds_list_create();
 dot_fair_price = ds_list_create();
+
+stats[? "balance"] = 3000;
+stats[? "income"] = 0;
+stats[? "expenses"] = 0;
 
 for (var i=0; i<paletteColour.maxi; i++) {
 	ds_list_add(dot_stock,100);

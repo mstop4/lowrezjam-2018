@@ -5,16 +5,6 @@
     "name": "obj_market_buy",
     "eventList": [
         {
-            "id": "de053c28-4255-4c6b-b4ee-4bea6603daf0",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "536407cb-d916-41ff-955c-e2c6006649e0"
-        },
-        {
             "id": "e78c02a8-eae4-4ca8-8731-31b85b99be1c",
             "modelName": "GMEvent",
             "mvc": "1.0",

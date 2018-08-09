@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "128186ba-ef63-4f82-b435-1839d605e5ab",
+            "Value": {
+                "id": "aee767cc-facd-4bca-84b8-22ed04e48ea8",
+                "resourcePath": "objects\\obj_buy_quantity\\obj_buy_quantity.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "139e75e0-789f-469a-8474-08b0e9805eb1",
             "Value": {
                 "id": "d51bab87-cc46-43ac-97e8-3e62266a7e8d",
@@ -255,14 +263,6 @@
             }
         },
         {
-            "Key": "68ebd70c-ec94-4aab-a79b-5b386ed392b4",
-            "Value": {
-                "id": "54eb0173-0c52-49a1-adb4-d8d15e86fc65",
-                "resourcePath": "scripts\/save_game_encode\/save_game_encode.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "6bdeb98e-89ad-40be-9d92-afc033ad951b",
             "Value": {
                 "id": "3cad30c8-5c38-4590-b87e-53cf086b3d0b",
@@ -396,6 +396,14 @@
                 "id": "626c3ecc-41b7-4fde-b0dd-67af4a737202",
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "acbcfe6c-a6cb-4a3c-8477-2798c5a4fabb",
+            "Value": {
+                "id": "273d5f1b-8e3c-43a9-aa7f-1066b8ce9923",
+                "resourcePath": "scripts\\pulse\\pulse.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -557,11 +565,11 @@
         "5480f8c9-9950-4c95-b0f6-939c17ec6857",
         "62b1949a-f178-4a2b-93a4-d4909da53bc6",
         "3477710d-9f7f-45fb-b8d2-516472e7b1ae",
-        "68ebd70c-ec94-4aab-a79b-5b386ed392b4",
         "d6bcd853-0bdd-441a-bc9d-422de94a2e6d",
         "61b84a6e-1767-4233-a847-b9f424479956",
         "24a1917b-f888-4e17-b67b-6f807e20e0a6",
-        "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f"
+        "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f",
+        "acbcfe6c-a6cb-4a3c-8477-2798c5a4fabb"
     ],
     "tutorial": ""
 }
