@@ -67,6 +67,20 @@
             "varType": 2
         },
         {
+            "id": "f401e1ec-ff58-4e8f-99f5-1fc72bfbf011",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"\"",
+            "varName": "dest_back_layer",
+            "varType": 2
+        },
+        {
             "id": "85193fda-8f2e-42fa-95f5-e4c8d8754abc",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
@@ -78,6 +92,20 @@
             "resourceFilter": 1023,
             "value": "\"\"",
             "varName": "src_layer",
+            "varType": 2
+        },
+        {
+            "id": "30947362-f90d-405e-9b0c-20a5a442668b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "\"\"",
+            "varName": "src_back_layer",
             "varType": 2
         },
         {

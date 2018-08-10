@@ -23,7 +23,7 @@
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "a379a2be-af0b-4246-9364-dc2382758eba",
-            "value": "\"Menu_Group\""
+            "value": "\"Menu\""
         },
         {
             "id": "ab15cf71-eaa5-4832-b7a6-bbfcecf8fdd1",
@@ -31,7 +31,7 @@
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "85193fda-8f2e-42fa-95f5-e4c8d8754abc",
-            "value": "\"Buy_Group\""
+            "value": "\"Buy\""
         },
         {
             "id": "7d1977c2-3500-42c8-b65a-3d7bf4f38879",
@@ -40,6 +40,22 @@
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "1c28db9b-e308-4724-8cee-4481f5af4e37",
             "value": "\"Cancel button\""
+        },
+        {
+            "id": "f52d789c-7592-494d-b0ae-d8a696117327",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "f401e1ec-ff58-4e8f-99f5-1fc72bfbf011",
+            "value": "\"Menu_Back\""
+        },
+        {
+            "id": "d6f629af-0538-4c42-bdb8-aa3f0ed863a7",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "30947362-f90d-405e-9b0c-20a5a442668b",
+            "value": "\"Buy_Back\""
         }
     ],
     "parentObjectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",

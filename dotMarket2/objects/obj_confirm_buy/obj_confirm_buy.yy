@@ -23,7 +23,7 @@
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "a379a2be-af0b-4246-9364-dc2382758eba",
-            "value": "\"Menu_Group\""
+            "value": "\"Menu\""
         },
         {
             "id": "1a62d945-fefd-488c-bd5c-03d4979e2b17",
@@ -39,7 +39,23 @@
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "85193fda-8f2e-42fa-95f5-e4c8d8754abc",
-            "value": "\"Buy_Group\""
+            "value": "\"Buy\""
+        },
+        {
+            "id": "22a1cbac-9359-45c7-a8bd-86741416a961",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "f401e1ec-ff58-4e8f-99f5-1fc72bfbf011",
+            "value": "\"Menu_Back\""
+        },
+        {
+            "id": "e4be53e8-6cf9-488a-83aa-9219c560fb9a",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "30947362-f90d-405e-9b0c-20a5a442668b",
+            "value": "\"Buy_Back\""
         }
     ],
     "parentObjectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",

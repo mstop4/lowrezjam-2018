@@ -22,7 +22,7 @@
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "85193fda-8f2e-42fa-95f5-e4c8d8754abc",
-            "value": "\"History_Back\""
+            "value": "\"Menu\""
         },
         {
             "id": "b73a5edf-6f0d-49a0-8c20-0b6287988605",
@@ -31,6 +31,22 @@
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "1c28db9b-e308-4724-8cee-4481f5af4e37",
             "value": "\"Menu to History\""
+        },
+        {
+            "id": "eefff3b6-e6b8-48f3-8204-3fcac5f3a39c",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "f401e1ec-ff58-4e8f-99f5-1fc72bfbf011",
+            "value": "\"History_Back\""
+        },
+        {
+            "id": "e60ac0df-46a1-4b29-aeea-f6df5e0efa9f",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "30947362-f90d-405e-9b0c-20a5a442668b",
+            "value": "\"Menu_Back\""
         }
     ],
     "parentObjectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
