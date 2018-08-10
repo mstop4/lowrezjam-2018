@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "cb57c49b-91d6-4929-a2e0-106cc8ba668f",
+            "Value": {
+                "id": "15be5827-8201-4a57-84c3-0bf7409b917a",
+                "resourcePath": "objects\\obj_cancel_button\\obj_cancel_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b7572cc9-7d1a-4d78-be4f-10b511a4681c",
@@ -516,6 +524,14 @@
                 "id": "4ab84bf3-ffaa-44e3-bf71-15660b8810fb",
                 "resourcePath": "objects\/obj_button\/obj_button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cf041282-eeb7-4720-baa9-c9e66c486a2b",
+            "Value": {
+                "id": "d6ad5c28-65ab-42af-8082-9ccb2321d33d",
+                "resourcePath": "sprites\\spr_cancel\\spr_cancel.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
