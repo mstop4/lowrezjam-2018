@@ -837,6 +837,25 @@
             }
         },
         {
+            "Key": "87e1180a-6147-47b0-86b5-6845ba9ad2f8",
+            "Value": {
+                "id": "be18affc-51f0-4a7a-89d9-42d36eeb1e40",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/87e1180a-6147-47b0-86b5-6845ba9ad2f8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "955f2b0d-e4d4-4e50-9896-8a03e9574a17",
             "Value": {
                 "id": "60a1dc60-f8e0-46f9-a7cf-4cd70ea88e94",
@@ -1122,6 +1141,25 @@
             }
         },
         {
+            "Key": "c287c903-3912-451d-a6fd-60a5272f0ff5",
+            "Value": {
+                "id": "e419e4a7-4ad1-4ab5-baf3-fead538d3647",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/c287c903-3912-451d-a6fd-60a5272f0ff5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "b7572cc9-7d1a-4d78-be4f-10b511a4681c",
@@ -1176,6 +1214,25 @@
                 ],
                 "resourcePath": "scripts\/load_game\/load_game.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "d6e26f87-cee6-4f43-8ccc-72dfec411a6e",
+            "Value": {
+                "id": "d1233613-eaa9-40d1-ac1d-7c84510ea5af",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_confirm_buy\/obj_confirm_buy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
