@@ -18,6 +18,11 @@ if (file_exists(_file_path)) {
 	ds_list_read(obj_MCP.dot_fair_price, file_text_read_string(file));
 	file_text_readln(file);
 	
+	for (var i=0; i<paletteColour.maxi; i++) {
+		ds_list_read(obj_MCP.price_history[i], file_text_read_string(file));
+		file_text_readln(file);
+	}
+	
 	// Patterns
 	for (var i=0; i<6; i++) {
 		cur_data = file_text_read_string(file);

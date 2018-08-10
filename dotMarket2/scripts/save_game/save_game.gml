@@ -16,7 +16,12 @@ file_text_write_string(file,ds_list_write(obj_MCP.dot_price));
 file_text_writeln(file);
 file_text_write_string(file,ds_list_write(obj_MCP.dot_fair_price));
 file_text_writeln(file);
-	
+
+for (var i=0; i<paletteColour.maxi; i++) {
+	file_text_write_string(file,ds_list_write(obj_MCP.price_history[i]));
+	file_text_writeln(file);
+}
+
 // Patterns
 for (var i=0; i<6; i++) {
 	cur_data = ds_grid_write(obj_MCP.pattern_storage[i]);
