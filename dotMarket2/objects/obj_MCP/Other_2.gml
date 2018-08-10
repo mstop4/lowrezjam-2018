@@ -51,6 +51,3 @@ price_delta_fail = -1;
 num_sims_per_day = 100;
 
 load_game(SAVE_PATH);
-
-if (os_browser == browser_not_a_browser)
-	surface_resize(application_surface, 64, 64);

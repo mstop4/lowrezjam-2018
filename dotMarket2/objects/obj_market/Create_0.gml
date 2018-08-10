@@ -13,8 +13,14 @@ for (var i=0; i<4; i++) {
 
 buy_button = instance_create_layer(1,50,"Menu",obj_submenu_button);
 buy_button.dest_layer = "Buy";
+buy_button.dest_back_layer = "Buy_Back";
+buy_button.src_back_layer = "Menu_Back";
+
 history_button = instance_create_layer(21,50,"Menu",obj_submenu_button);
 history_button.dest_layer = "History";
+history_button.dest_back_layer = "History_Back";
+history_button.src_back_layer = "Menu_Back";
+
 
 instance_deactivate_object(buy_button);
 instance_deactivate_object(history_button);
