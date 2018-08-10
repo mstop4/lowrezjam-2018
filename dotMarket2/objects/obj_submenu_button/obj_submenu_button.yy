@@ -77,21 +77,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "\"\"",
-            "varName": "dest_back_layer",
-            "varType": 2
-        },
-        {
-            "id": "afb3da83-9a16-460c-bcd9-ea847e411340",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "\"\"",
-            "varName": "src_back_layer",
+            "varName": "src_layer",
             "varType": 2
         },
         {

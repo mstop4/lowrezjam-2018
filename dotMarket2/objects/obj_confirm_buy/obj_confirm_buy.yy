@@ -23,7 +23,23 @@
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "a379a2be-af0b-4246-9364-dc2382758eba",
-            "value": "\"Menu\""
+            "value": "\"Menu_Group\""
+        },
+        {
+            "id": "1a62d945-fefd-488c-bd5c-03d4979e2b17",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "1c28db9b-e308-4724-8cee-4481f5af4e37",
+            "value": "\"Buy Button\""
+        },
+        {
+            "id": "eb0cf52e-3d49-4a2e-8b38-8d14e350e8d7",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "85193fda-8f2e-42fa-95f5-e4c8d8754abc",
+            "value": "\"Buy_Group\""
         }
     ],
     "parentObjectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",

@@ -25,14 +25,6 @@
             "value": "\"History_Back\""
         },
         {
-            "id": "931f646f-861e-459b-a511-9120cf0c93a8",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
-            "propertyId": "afb3da83-9a16-460c-bcd9-ea847e411340",
-            "value": "\"Menu_Back\""
-        },
-        {
             "id": "b73a5edf-6f0d-49a0-8c20-0b6287988605",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",

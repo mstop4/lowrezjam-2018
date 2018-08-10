@@ -2,7 +2,7 @@
     "id": "b9ed5598-a270-47f3-9d88-dd54ebb5c704",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_buy_back",
+    "name": "bck_buy",
     "For3D": false,
     "HTile": false,
     "VTile": false,
