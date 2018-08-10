@@ -52,4 +52,5 @@ num_sims_per_day = 100;
 
 load_game(SAVE_PATH);
 
-surface_resize(application_surface, 64, 64);
+if (os_browser == browser_not_a_browser)
+	surface_resize(application_surface, 64, 64);
