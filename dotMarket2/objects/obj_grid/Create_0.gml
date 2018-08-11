@@ -1,5 +1,5 @@
 paint_surf = surface_create(16,16);
-paint_grid = obj_MCP.pattern_storage[obj_MCP.current_pattern];
+paint_grid = obj_MCP.player_storage[obj_MCP.current_pattern];
 undo_grid = ds_grid_create(16,16);
 
 ds_grid_copy(undo_grid,paint_grid);

@@ -1,1 +1,0 @@
-current_colour = wrap(current_colour-1,0,paletteColour.maxi-1);
