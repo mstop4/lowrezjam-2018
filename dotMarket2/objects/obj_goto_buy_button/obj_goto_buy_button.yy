@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_goto_buy_button",
     "eventList": [
-        
+        {
+            "id": "34111833-fa2c-4e84-930f-57781ad53f94",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "cb7ebc30-d3a2-42d2-8023-9d7a329eebe4"
+        },
+        {
+            "id": "592b46f3-2005-451d-80eb-d1f735420a1d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cb7ebc30-d3a2-42d2-8023-9d7a329eebe4"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

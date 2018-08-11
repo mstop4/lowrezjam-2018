@@ -2,9 +2,28 @@
     "id": "637466d5-528b-4260-a9dc-d8aede27ec3c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_history",
+    "name": "obj_market_history",
     "eventList": [
-        
+        {
+            "id": "d044a22b-882f-4cc4-90f2-6c9527d6ae87",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "637466d5-528b-4260-a9dc-d8aede27ec3c"
+        },
+        {
+            "id": "71b17f94-dda0-4701-bc5e-98cb8a49a6fa",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "637466d5-528b-4260-a9dc-d8aede27ec3c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

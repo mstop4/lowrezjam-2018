@@ -1,3 +1,5 @@
+print(name);
+
 layer_set_visible(src_layer_id,false);
 layer_set_visible(dest_layer_id,true);
 layer_set_visible(src_back_id,false);

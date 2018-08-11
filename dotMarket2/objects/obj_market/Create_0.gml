@@ -11,10 +11,10 @@ for (var i=0; i<4; i++) {
 	store_items[i*2+1].my_index = store_items[i*2+1].index_offset+page*8;
 }
 
-buy_button = instance_create_layer(1,50,"Menu",obj_goto_buy_button);
+//buy_button = instance_create_layer(1,50,"Menu",obj_goto_buy_button);
 history_button = instance_create_layer(21,50,"Menu",obj_goto_history_button);
 
-instance_deactivate_object(buy_button);
+//instance_deactivate_object(buy_button);
 instance_deactivate_object(history_button);
-instance_deactivate_layer("Buy");
-instance_deactivate_layer("History");
+
+alarm[0] = 1;
