@@ -6,8 +6,9 @@ randomize();
 
 global.fnt_pix = font_add_sprite_ext(spr_font,"ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'.- /",false,1);
 
-surface_resize(application_surface,64,64);
-display_set_gui_maximize(0.25,0.25,0,0);
+price_delta_success = 1;
+price_delta_fail = -1;
+num_sims_per_day = 100;
 
 reset_game();
 load_game(SAVE_PATH);

@@ -136,7 +136,7 @@
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
-            "hierarchyVisible": false,
+            "hierarchyVisible": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -150,7 +150,7 @@
                     "grid_x": 8,
                     "grid_y": 8,
                     "hierarchyFrozen": false,
-                    "hierarchyVisible": false,
+                    "hierarchyVisible": true,
                     "inheritLayerDepth": false,
                     "inheritLayerSettings": false,
                     "inheritSubLayers": false,
@@ -181,7 +181,7 @@
                     "grid_x": 32,
                     "grid_y": 32,
                     "hierarchyFrozen": false,
-                    "hierarchyVisible": false,
+                    "hierarchyVisible": true,
                     "hspeed": 0,
                     "htiled": false,
                     "inheritLayerDepth": false,
@@ -211,7 +211,7 @@
             "modelName": "GMRLayer",
             "mvc": "1.0",
             "userdefined_depth": false,
-            "visible": false
+            "visible": true
         },
         {
             "name": "History_Group",
