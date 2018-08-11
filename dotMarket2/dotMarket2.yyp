@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "06e46de9-a200-4ef8-b3d7-1f400b2d6c4d",
+            "Value": {
+                "id": "0848da67-9946-4dd6-9c0b-81a007817458",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/06e46de9-a200-4ef8-b3d7-1f400b2d6c4d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "07c6fbdf-f152-4f28-955f-4e28e4ca9365",
             "Value": {
                 "id": "aac7ded1-bc60-4774-ac2c-771fed090869",
@@ -74,6 +93,25 @@
                 ],
                 "resourcePath": "sprites\/spr_grid\/spr_grid.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "09336b9e-a788-45a6-b229-b3a6c30c00ba",
+            "Value": {
+                "id": "9fc4209e-c64b-4e90-8516-27d7d8bc1f45",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_display_temple\/obj_display_temple.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -435,6 +473,25 @@
                 ],
                 "resourcePath": "objects\/obj_title\/obj_title.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "31c1bbe5-b643-4dc3-b18b-9e6fd17a4a34",
+            "Value": {
+                "id": "9364fe39-3428-4407-993a-016a6d21e2ed",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/room_scrap\/room_scrap.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1445,6 +1502,25 @@
             }
         },
         {
+            "Key": "d559fe59-f9ea-42fd-bd06-94b5f4260c0d",
+            "Value": {
+                "id": "7255fb1e-fafb-4cb0-aac9-682483db0690",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_scrap_display\/obj_scrap_display.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d6bcd853-0bdd-441a-bc9d-422de94a2e6d",
             "Value": {
                 "id": "4509934b-938e-46c9-8a8a-6a6a461cb5dc",
@@ -1498,6 +1574,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/obj_goto_history_button\/obj_goto_history_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "de11908d-8680-45a9-8093-38d8fc5dce0e",
+            "Value": {
+                "id": "cf91ecfc-bd6f-49d2-853d-5d82dd6c2808",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_scrap\/obj_scrap.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1720,11 +1815,11 @@
         "d6bcd853-0bdd-441a-bc9d-422de94a2e6d",
         "acbcfe6c-a6cb-4a3c-8477-2798c5a4fabb",
         "efe5d045-377f-452f-b543-0204cb4e7bae",
+        "26ec26c6-c348-4869-ab78-bb383b387d5d",
         "2c99a3e2-7f57-4780-bc0b-fd72657a831c",
         "61b84a6e-1767-4233-a847-b9f424479956",
         "24a1917b-f888-4e17-b67b-6f807e20e0a6",
-        "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f",
-        "26ec26c6-c348-4869-ab78-bb383b387d5d"
+        "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f"
     ],
     "tutorial": ""
 }

@@ -63,20 +63,33 @@
             "enumb": 7,
             "eventtype": 6,
             "m_owner": "1b5aae17-ff28-4a99-97a5-cb64eefa72d3"
+        },
+        {
+            "id": "f6c1dd10-8e1e-4247-a1a8-27bb1abd806a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "1b5aae17-ff28-4a99-97a5-cb64eefa72d3"
+        },
+        {
+            "id": "db551811-7bb6-4b25-9f57-4064e3e20382",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 11,
+            "eventtype": 6,
+            "m_owner": "1b5aae17-ff28-4a99-97a5-cb64eefa72d3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
-        {
-            "id": "6b7561ff-76f8-4bb3-88d6-af4e43c6cd36",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
-            "propertyId": "b4ac2699-e02f-4319-be90-c84964baab1b",
-            "value": "room_design"
-        }
+        
     ],
-    "parentObjectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
+    "parentObjectId": "09336b9e-a788-45a6-b229-b3a6c30c00ba",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -104,6 +117,48 @@
             "value": "0",
             "varName": "my_index",
             "varType": 1
+        },
+        {
+            "id": "f0b3fca6-e92a-40fb-b2f0-4b556e6aabf5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "enabled",
+            "varType": 3
+        },
+        {
+            "id": "afa0bb30-48a9-4087-aa58-5a44fcdb3322",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "my_base_alpha",
+            "varType": 0
+        },
+        {
+            "id": "f286e797-80a6-489c-b432-c0dd73aa65d7",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 512,
+            "value": "room_design",
+            "varName": "next_room",
+            "varType": 5
         }
     ],
     "solid": false,
