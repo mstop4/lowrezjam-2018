@@ -10,7 +10,7 @@ with (obj_market) {
 with (obj_store_item)
 	selected = false;
 	
-instance_deactivate_object(obj_market.buy_button);
-instance_deactivate_object(obj_market.history_button);
+obj_market.buy_button.enabled = false;
+obj_market.history_button.enabled = false;
 
 event_inherited();

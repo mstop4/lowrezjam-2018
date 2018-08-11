@@ -1,6 +1,6 @@
 if (animate) {
 	t = min(t+t_delta,1);
-	display_value[cur_index] = round(t * cur_history[| cur_index] / 2);
+	display_value[cur_index] = round(power(t,3) * cur_history[| cur_index] / 2);
 	
 	if (t == 1) {
 		cur_index++;

@@ -1,0 +1,1 @@
+image_alpha = enabled ? my_base_alpha : my_base_alpha * 0.5;

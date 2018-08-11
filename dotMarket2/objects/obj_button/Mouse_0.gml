@@ -1,1 +1,2 @@
-image_index = 1;
+if (enabled)
+	image_index = 1;

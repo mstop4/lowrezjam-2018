@@ -1,4 +1,6 @@
-event_inherited();
+if (enabled) {
+	event_inherited();
 
-with (obj_market_history) 
-	event_user(0);
+	with (obj_market_history) 
+		event_user(0);
+}

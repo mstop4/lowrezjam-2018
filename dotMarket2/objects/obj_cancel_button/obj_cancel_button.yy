@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "obj_cancel_button",
     "eventList": [
-        {
-            "id": "836ded8f-9a09-48fb-88c9-e27728198d1d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "cb57c49b-91d6-4929-a2e0-106cc8ba668f"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

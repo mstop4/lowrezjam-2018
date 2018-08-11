@@ -14,7 +14,7 @@ for (var i=0; i<4; i++) {
 buy_button = instance_create_layer(1,50,"Menu",obj_goto_buy_button);
 history_button = instance_create_layer(21,50,"Menu",obj_goto_history_button);
 
-instance_deactivate_object(buy_button);
-instance_deactivate_object(history_button);
+buy_button.enabled = false;
+history_button.enabled = false;
 
 alarm[0] = 1;
