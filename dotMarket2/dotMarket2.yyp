@@ -58,7 +58,7 @@
             "Key": "09336b9e-a788-45a6-b229-b3a6c30c00ba",
             "Value": {
                 "id": "9fc4209e-c64b-4e90-8516-27d7d8bc1f45",
-                "resourcePath": "objects\/obj_display_temple\/obj_display_temple.yy",
+                "resourcePath": "objects\\obj_display_template\\obj_display_template.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -788,6 +788,14 @@
                 "id": "334f2f87-e91a-4e21-88b6-28fc1b33e287",
                 "resourcePath": "scripts\/print\/print.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f66a33f6-f70b-4bd4-8027-0219d5a4a2d4",
+            "Value": {
+                "id": "22887d48-4adc-4470-9d95-53a542f947ec",
+                "resourcePath": "objects\\obj_selectable\\obj_selectable.yy",
+                "resourceType": "GMObject"
             }
         },
         {

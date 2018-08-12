@@ -1,4 +1,4 @@
-draw_sprite_ext(sprite_index,image_index,x,y,1,1,0,c_white,image_alpha);
+event_inherited();
 draw_sprite_ext(spr_swatch,0,x+2,y+2,1,1,0,image_blend,image_alpha);
 
 draw_set_alpha(image_alpha);

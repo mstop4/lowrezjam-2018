@@ -33,6 +33,8 @@ for (var i=0; i<6; i++) {
 	file_text_writeln(file);
 	file_text_write_string(file,ds_grid_write(obj_MCP.scrap_storage[i]));
 	file_text_writeln(file);
+	file_text_write_string(file,ds_grid_write(obj_MCP.scrap_goal[i]));
+	file_text_writeln(file);
 }
 	
 file_text_close(file);

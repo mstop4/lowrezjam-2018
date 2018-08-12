@@ -12,7 +12,7 @@ enum paletteColour {
 	blue,
 	navy,
 	violet,
-	purple,
+	darkgrey,
 	white,
 	gray,
 	black,
@@ -23,4 +23,11 @@ enum paintMode {
 	paint,
 	erase,
 	maxi
+}
+
+enum buttonState {
+	none,
+	hover,
+	clicked,
+	selected
 }

@@ -1,19 +1,19 @@
-palette[paletteColour.pink] = make_colour_rgb(255,160,208);
-palette[paletteColour.red] = make_colour_rgb(255,0,0);
-palette[paletteColour.orange] = make_colour_rgb(255,128,0);
-palette[paletteColour.brown] = make_colour_rgb(128,64,0);
-palette[paletteColour.peach] = make_colour_rgb(255,192,128);
-palette[paletteColour.yellow] = make_colour_rgb(255,255,0);
-palette[paletteColour.lime] = make_colour_rgb(0,255,0);
-palette[paletteColour.green] = make_colour_rgb(0,192,0);
-palette[paletteColour.cyan] = make_colour_rgb(0,255,255);
-palette[paletteColour.blue] = make_colour_rgb(0,128,255);
-palette[paletteColour.navy] = make_colour_rgb(0,0,255);
-palette[paletteColour.violet] = make_colour_rgb(128,0,255);
-palette[paletteColour.purple] = make_colour_rgb(224,0,255);
+palette[paletteColour.pink] = make_colour_rgb(255,157,172);
+palette[paletteColour.red] = make_colour_rgb(229,59,68);
+palette[paletteColour.orange] = make_colour_rgb(251,146,43); 
+palette[paletteColour.brown] = make_colour_rgb(116,63,57);
+palette[paletteColour.peach] = make_colour_rgb(255,171,123);
+palette[paletteColour.yellow] = make_colour_rgb(255,231,98);
+palette[paletteColour.lime] = make_colour_rgb(99,198,77);
+palette[paletteColour.green] = make_colour_rgb(50,115,69);
+palette[paletteColour.cyan] = make_colour_rgb(44,232,244);
+palette[paletteColour.blue] = make_colour_rgb(4,132,209);
+palette[paletteColour.navy] = make_colour_rgb(63,72,194);
+palette[paletteColour.violet] = make_colour_rgb(123,83,173);
+palette[paletteColour.darkgrey] = make_colour_rgb(79,103,129);
 palette[paletteColour.white] = make_colour_rgb(255,255,255);
-palette[paletteColour.gray] = make_colour_rgb(128,128,128);
-palette[paletteColour.black] = make_colour_rgb(0,0,0);
+palette[paletteColour.gray] = make_colour_rgb(175,191,210);
+palette[paletteColour.black] = make_colour_rgb(34,37,51);
 
 stats = ds_map_create();
 dot_stock = ds_list_create();
@@ -40,7 +40,9 @@ for (var i=0; i<6; i++) {
 	player_storage[i] = ds_grid_create(16,16);
 	ds_list_add(player_has_goal,false);
 	player_goal[i] = ds_grid_create(16,16);
+	
 	scrap_storage[i] = ds_grid_create(16,16);
+	scrap_goal[i] = ds_grid_create(16,16);
 	ds_list_add(scrap_is_occupied,false);
 }
 

@@ -19,6 +19,7 @@ for (var i=0; i<6; i++) {
 	ds_grid_destroy(player_storage[i]);
 	ds_grid_destroy(player_goal[i]);
 	ds_grid_destroy(scrap_storage[i]);
+	ds_grid_destroy(scrap_goal[i]);
 }
 
 var _lib_size = array_length_1d(patterns_library);

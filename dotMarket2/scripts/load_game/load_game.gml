@@ -34,6 +34,8 @@ if (file_exists(_file_path)) {
 		file_text_readln(file);		
 		ds_grid_read(obj_MCP.scrap_storage[i],file_text_read_string(file),false);
 		file_text_readln(file);
+		ds_grid_read(obj_MCP.scrap_goal[i],file_text_read_string(file),false);
+		file_text_readln(file);
 	}
 	
 	file_text_close(file);

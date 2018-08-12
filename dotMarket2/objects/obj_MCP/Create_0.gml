@@ -11,6 +11,7 @@ global.fnt_pix = font_add_sprite_ext(spr_font,"ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567
 price_delta_success = 1;
 price_delta_fail = -1;
 num_sims_per_day = 100;
+new_index = 0;
 
 reset_game();
 load_patterns();

@@ -1,1 +1,0 @@
-surface_free(pattern_surf);
