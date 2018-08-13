@@ -303,14 +303,6 @@
             }
         },
         {
-            "Key": "3abb3f90-7467-4855-8b94-5f3cd8263c2f",
-            "Value": {
-                "id": "1da7c27b-a023-42d1-aeea-3e52a3ab4b6d",
-                "resourcePath": "objects\\obj_scrap_store_cancel_button\\obj_scrap_store_cancel_button.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "3cc153db-5622-4c6f-aa4f-874baa877f2e",
             "Value": {
                 "id": "5299c632-40b6-4c8c-8f6c-890ea650a39a",
