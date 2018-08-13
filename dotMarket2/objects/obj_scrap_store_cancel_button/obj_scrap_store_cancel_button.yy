@@ -1,34 +1,15 @@
 {
-    "id": "cb7ebc30-d3a2-42d2-8023-9d7a329eebe4",
+    "id": "e3822813-39ed-494f-a4a6-d43f126b08f0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_goto_buy_button",
+    "name": "obj_scrap_store_cancel_button",
     "eventList": [
-        {
-            "id": "34111833-fa2c-4e84-930f-57781ad53f94",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "cb7ebc30-d3a2-42d2-8023-9d7a329eebe4"
-        },
-        {
-            "id": "592b46f3-2005-451d-80eb-d1f735420a1d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "cb7ebc30-d3a2-42d2-8023-9d7a329eebe4"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "5abb683b-d97a-4b74-9f95-06ad8dc9badb",
+            "id": "7b5cdfff-2dd0-4044-b0f7-949b328f8f8a",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
@@ -36,15 +17,7 @@
             "value": "\"Buy\""
         },
         {
-            "id": "e787f517-1d15-4a41-9e34-2b7c5697415b",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
-            "propertyId": "1c28db9b-e308-4724-8cee-4481f5af4e37",
-            "value": "\"Menu to Buy\""
-        },
-        {
-            "id": "b5c360f9-9767-4f03-ac05-fdaaae0d4977",
+            "id": "063df54e-2a8c-40d6-86dc-3366a07f3c2b",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
@@ -52,20 +25,20 @@
             "value": "\"Buy_Back\""
         },
         {
-            "id": "4f2b97ef-360a-4710-8bc2-412d5212e6f1",
+            "id": "a1ee6b7d-5163-47dd-b9e5-a2ee8dd3e2da",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "85193fda-8f2e-42fa-95f5-e4c8d8754abc",
-            "value": "\"Menu\""
+            "value": "\"Store\""
         },
         {
-            "id": "6c35c9e2-f04e-4f3a-bc69-b8d0747b5fd8",
+            "id": "259cd213-7f78-4415-912c-92aaed40e794",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "30947362-f90d-405e-9b0c-20a5a442668b",
-            "value": "\"Menu_Back\""
+            "value": "\"Store_Back\""
         }
     ],
     "parentObjectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
@@ -84,6 +57,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "2b5f044b-7d60-44c2-8c16-370c3e515875",
+    "spriteId": "cf041282-eeb7-4720-baa9-c9e66c486a2b",
     "visible": true
 }

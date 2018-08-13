@@ -21,7 +21,10 @@ undo_dot_stock = ds_list_create();
 dot_price = ds_list_create();
 dot_fair_price = ds_list_create();
 player_has_goal = ds_list_create();
+player_is_occupied = ds_list_create();
+player_value = ds_list_create();
 scrap_is_occupied = ds_list_create();
+scrap_value = ds_list_create();
 
 stats[? "balance"] = 3000;
 stats[? "income"] = 0;
@@ -39,11 +42,14 @@ for (var i=0; i<paletteColour.maxi; i++) {
 for (var i=0; i<6; i++) {
 	player_storage[i] = ds_grid_create(16,16);
 	ds_list_add(player_has_goal,false);
+	ds_list_add(player_is_occupied,false);
+	ds_list_add(player_value,0);
 	player_goal[i] = ds_grid_create(16,16);
 	
 	scrap_storage[i] = ds_grid_create(16,16);
 	scrap_goal[i] = ds_grid_create(16,16);
 	ds_list_add(scrap_is_occupied,false);
+	ds_list_add(scrap_value,0);
 }
 
 current_pattern = 0;

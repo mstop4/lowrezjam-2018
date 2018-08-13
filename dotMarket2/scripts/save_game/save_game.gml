@@ -17,7 +17,13 @@ file_text_write_string(file,ds_list_write(obj_MCP.dot_fair_price));
 file_text_writeln(file);
 file_text_write_string(file,ds_list_write(obj_MCP.player_has_goal));
 file_text_writeln(file);
+file_text_write_string(file,ds_list_write(obj_MCP.player_is_occupied));
+file_text_writeln(file);
+file_text_write_string(file,ds_list_write(obj_MCP.player_value));
+file_text_writeln(file);
 file_text_write_string(file,ds_list_write(obj_MCP.scrap_is_occupied));
+file_text_writeln(file);
+file_text_write_string(file,ds_list_write(obj_MCP.scrap_value));
 file_text_writeln(file);
 
 for (var i=0; i<paletteColour.maxi; i++) {

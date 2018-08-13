@@ -2,7 +2,7 @@
     "id": "cb57c49b-91d6-4929-a2e0-106cc8ba668f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_cancel_button",
+    "name": "obj_market_cancel_button",
     "eventList": [
         
     ],

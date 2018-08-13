@@ -9,7 +9,9 @@ ds_list_destroy(undo_dot_stock);
 ds_list_destroy(dot_price);
 ds_list_destroy(dot_fair_price);
 ds_list_destroy(player_has_goal);
+ds_list_destroy(player_value);
 ds_list_destroy(scrap_is_occupied);
+ds_list_destroy(scrap_value);
 
 for (var i=0; i<paletteColour.maxi; i++) {
 	ds_list_destroy(price_history[i]);

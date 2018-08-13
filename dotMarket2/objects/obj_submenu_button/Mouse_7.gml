@@ -7,6 +7,6 @@ if (enabled) {
 	instance_deactivate_layer(src_layer_id);
 	instance_activate_layer(dest_layer_id);
 
-	mouse_clear(mb_left);
+	io_clear();
 	event_inherited();
 }

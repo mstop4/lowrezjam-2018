@@ -33,5 +33,9 @@ for (var i=0; i<1; i++) {
 	}
 
 	ds_list_destroy(_pixel_list);
+	
+	// evaluate price of pattern
+	obj_MCP.scrap_value[| new_index] = pattern_valuation(_cur_pattern);
+	
 	new_index = (new_index+1) mod _num_scrap_spaces;
 }
