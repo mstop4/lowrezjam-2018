@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "309753ac-ff7e-49fe-9403-263ac5218309",
+            "Value": {
+                "id": "193641a9-8766-43e0-a733-cca922b499bb",
+                "resourcePath": "sprites\\spr_frame_none\\spr_frame_none.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "314b7f18-ad35-4768-8608-3305e70bf611",
             "Value": {
                 "id": "f4a2cc37-b84f-45c4-9ca9-d82f037ccd4b",
@@ -631,6 +639,22 @@
             }
         },
         {
+            "Key": "9884545a-b367-43cf-8f4d-48635fdf26d6",
+            "Value": {
+                "id": "8677a534-40ab-4eaf-b3a3-12743a2ec089",
+                "resourcePath": "sprites\\spr_frame_custom\\spr_frame_custom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9b242e63-b764-4dac-8bba-cdfd400d694c",
+            "Value": {
+                "id": "9deeebf7-2339-498b-8148-0312efe3213a",
+                "resourcePath": "sprites\\spr_frame_done\\spr_frame_done.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9ca2dc34-112d-4360-956f-26d00ab9140f",
             "Value": {
                 "id": "a45ec533-c74b-4bea-b245-874cf67c5cc7",
@@ -706,7 +730,7 @@
             "Key": "b954f6b8-cfc3-4369-9231-75fbb9f323ba",
             "Value": {
                 "id": "51944143-7ef8-4f21-8274-b0fff47d8ef5",
-                "resourcePath": "sprites\/spr_frame\/spr_frame.yy",
+                "resourcePath": "sprites\\spr_frame_repair\\spr_frame_repair.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -851,6 +875,14 @@
             "Value": {
                 "id": "cf91ecfc-bd6f-49d2-853d-5d82dd6c2808",
                 "resourcePath": "objects\/obj_scrap\/obj_scrap.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "de831814-dc48-4384-86b7-d8f7e7d007b3",
+            "Value": {
+                "id": "8482a11b-8bf4-48e4-8559-7e86e619e704",
+                "resourcePath": "objects\\obj_scrap_to_menu_button\\obj_scrap_to_menu_button.yy",
                 "resourceType": "GMObject"
             }
         },
