@@ -26,13 +26,13 @@ player_value = ds_list_create();
 scrap_is_occupied = ds_list_create();
 scrap_value = ds_list_create();
 
-stats[? "balance"] = 3000;
+stats[? "balance"] = 10000;
 stats[? "income"] = 0;
 stats[? "expenses"] = 0;
 
 for (var i=0; i<paletteColour.maxi; i++) {
-	ds_list_add(dot_stock,100);
-	ds_list_add(undo_dot_stock,100);
+	ds_list_add(dot_stock,0);
+	ds_list_add(undo_dot_stock,0);
 	ds_list_add(dot_price,irandom_range(40,60));
 	ds_list_add(dot_fair_price,50);
 	price_history[i] = ds_list_create();

@@ -879,14 +879,6 @@
             }
         },
         {
-            "Key": "de831814-dc48-4384-86b7-d8f7e7d007b3",
-            "Value": {
-                "id": "8482a11b-8bf4-48e4-8559-7e86e619e704",
-                "resourcePath": "objects\\obj_scrap_to_menu_button\\obj_scrap_to_menu_button.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "e3822813-39ed-494f-a4a6-d43f126b08f0",
             "Value": {
                 "id": "660ec159-ec02-41f3-b639-2359f678bdf7",
