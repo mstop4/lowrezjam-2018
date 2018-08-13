@@ -1,3 +1,6 @@
-for (var i=0; i<paletteColour.maxi; i++) {
-	dot_price[| i] = irandom_range(40,60);
+reset_game();
+save_game(SAVE_PATH);
+
+with (obj_display_template) {
+	alarm[0] = 1;
 }

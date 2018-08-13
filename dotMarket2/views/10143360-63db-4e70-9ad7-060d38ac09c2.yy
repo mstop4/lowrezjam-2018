@@ -6,6 +6,7 @@
     "children": [
         "f4216a94-3609-4338-8022-9dbf1d2e1de5",
         "37017c5f-2525-4344-be42-a5cd989f1baf",
+        "911d3985-bb00-4221-9ab8-8c6f2c4bb8c4",
         "5480f8c9-9950-4c95-b0f6-939c17ec6857",
         "62b1949a-f178-4a2b-93a4-d4909da53bc6",
         "3477710d-9f7f-45fb-b8d2-516472e7b1ae",
@@ -14,7 +15,8 @@
         "efe5d045-377f-452f-b543-0204cb4e7bae",
         "26ec26c6-c348-4869-ab78-bb383b387d5d",
         "29e9e285-c6e2-43b8-b2c7-06071ebbd515",
-        "112c2653-a539-4059-acc6-4ee3546bf4dd"
+        "112c2653-a539-4059-acc6-4ee3546bf4dd",
+        "4a43c660-e203-4836-bdc5-ad4a29c59276"
     ],
     "filterType": "GMScript",
     "folderName": "scripts",

@@ -4,6 +4,10 @@ if (enabled) {
 	ds_list_copy(obj_MCP.undo_dot_stock, obj_MCP.dot_stock);
 	obj_market_buy.quantity = 0;
 	save_game(SAVE_PATH);
+	
+	if (os_type == os_android) {
+		keyboard_virtual_hide();
+	}
 
 	event_inherited();
 }

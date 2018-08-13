@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_market_cancel_button",
     "eventList": [
-        
+        {
+            "id": "5331da78-284a-41d7-9855-9e6d9ee7f7f8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "cb57c49b-91d6-4929-a2e0-106cc8ba668f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [

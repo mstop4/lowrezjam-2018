@@ -12,9 +12,9 @@ enum paletteColour {
 	blue,
 	navy,
 	violet,
-	darkgrey,
 	white,
 	gray,
+	darkgrey,
 	black,
 	maxi
 }

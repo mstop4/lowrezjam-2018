@@ -1,9 +1,12 @@
 paint_surf = surface_create(16,16);
 paint_grid = obj_MCP.player_storage[obj_MCP.current_pattern];
+guide_surf = surface_create(48,48);
+guide_grid = obj_MCP.player_goal[obj_MCP.current_pattern];
 undo_grid = ds_grid_create(16,16);
 
 ds_grid_copy(undo_grid,paint_grid);
 render_grid(paint_grid,paint_surf);
+render_guide(guide_grid,guide_surf);
 
 current_colour = paletteColour.pink;
 

@@ -1,6 +1,6 @@
 for (var i=0; i<2; i++) {
 	for (var j=0; j<3; j++) {
-		var sd = instance_create_layer(1+j*18,1+i*18,"Store",obj_scrap_store_display);
+		var sd = instance_create_layer(1+j*19,1+i*19,"Store",obj_scrap_store_display);
 		sd.my_index = i*3+j;
 	}
 }

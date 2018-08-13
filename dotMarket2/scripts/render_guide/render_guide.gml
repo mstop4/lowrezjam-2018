@@ -12,7 +12,7 @@ for (var i=0; i<16; i++) {
 		
 		if (_grid[# i, j] != paletteColour.blank) {
 			draw_set_colour(obj_MCP.palette[_grid[# i, j]]);
-			draw_point(i,j);
+			draw_point(i*3+1,j*3+1);
 		}
 	}
 }

@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "2f4039cd-25f6-46b5-aef5-9d8fdc413a17",
+            "Value": {
+                "id": "a13dd39d-3f09-4a15-94b1-d5831bb3facf",
+                "resourcePath": "objects\\obj_edit_button\\obj_edit_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "307be9dd-3446-4a82-a268-8074b4efc39f",
             "Value": {
                 "id": "a8252737-9715-4b9a-9145-aff69753b154",
@@ -340,6 +348,14 @@
                 "id": "02b0f169-6358-43b8-b1ce-0f61975c6954",
                 "resourcePath": "views\/41c34ec4-e32e-4f7e-8085-27852fa54026.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4a43c660-e203-4836-bdc5-ad4a29c59276",
+            "Value": {
+                "id": "a83adb65-ae40-46ab-970f-9a3a594c1eee",
+                "resourcePath": "scripts\\grids_are_equal\\grids_are_equal.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -583,6 +599,14 @@
             }
         },
         {
+            "Key": "911d3985-bb00-4221-9ab8-8c6f2c4bb8c4",
+            "Value": {
+                "id": "948d607f-e78e-49fa-a122-50039a8f95a5",
+                "resourcePath": "scripts\\render_guide\\render_guide.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "955f2b0d-e4d4-4e50-9896-8a03e9574a17",
             "Value": {
                 "id": "60a1dc60-f8e0-46f9-a7cf-4cd70ea88e94",
@@ -707,6 +731,14 @@
             "Value": {
                 "id": "bc189a57-f34a-4081-8763-8c60cc178c42",
                 "resourcePath": "objects\/obj_store_item\/obj_store_item.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bdda7e19-ae25-4077-82bb-ee9ae025e7e1",
+            "Value": {
+                "id": "1703f3f1-3c87-4585-8b9f-084c439ddd1a",
+                "resourcePath": "objects\\obj_sell_button\\obj_sell_button.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -946,6 +978,7 @@
     "script_order": [
         "f4216a94-3609-4338-8022-9dbf1d2e1de5",
         "37017c5f-2525-4344-be42-a5cd989f1baf",
+        "911d3985-bb00-4221-9ab8-8c6f2c4bb8c4",
         "5480f8c9-9950-4c95-b0f6-939c17ec6857",
         "62b1949a-f178-4a2b-93a4-d4909da53bc6",
         "3477710d-9f7f-45fb-b8d2-516472e7b1ae",
@@ -957,7 +990,8 @@
         "61b84a6e-1767-4233-a847-b9f424479956",
         "24a1917b-f888-4e17-b67b-6f807e20e0a6",
         "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f",
-        "112c2653-a539-4059-acc6-4ee3546bf4dd"
+        "112c2653-a539-4059-acc6-4ee3546bf4dd",
+        "4a43c660-e203-4836-bdc5-ad4a29c59276"
     ],
     "tutorial": ""
 }
