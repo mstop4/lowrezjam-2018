@@ -1,3 +1,4 @@
+with (obj_MCP) {
 palette[paletteColour.pink] = make_colour_rgb(255,157,172);
 palette[paletteColour.red] = make_colour_rgb(229,59,68);
 palette[paletteColour.orange] = make_colour_rgb(251,146,43); 
@@ -57,3 +58,7 @@ current_pattern = 0;
 price_delta_success = 1;
 price_delta_fail = -1;
 num_sims_per_day = 100;
+
+alarm[0] = update_interval;
+new_index = 0;
+}

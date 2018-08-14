@@ -169,6 +169,20 @@
             "value": "1.0",
             "varName": "max_mark",
             "varType": 0
+        },
+        {
+            "id": "dc00e7f0-9333-4ba1-9b87-56dd050ed154",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3600",
+            "varName": "update_interval",
+            "varType": 1
         }
     ],
     "solid": false,
