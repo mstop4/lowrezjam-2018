@@ -2,7 +2,7 @@
     "id": "cf041282-eeb7-4720-baa9-c9e66c486a2b",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_cancel",
+    "name": "spr_back",
     "For3D": false,
     "HTile": false,
     "VTile": false,
