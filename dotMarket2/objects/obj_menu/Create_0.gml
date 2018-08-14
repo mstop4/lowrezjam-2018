@@ -7,6 +7,9 @@ for (var i=0; i<2; i++) {
 
 edit_button = instance_create_layer(8,56,"Menu",obj_edit_button);
 sell_button = instance_create_layer(16,56,"Menu",obj_sell_button);
+edit_button.enabled = false;
+sell_button.enabled = false;
+
 
 sell_price = 0;
 

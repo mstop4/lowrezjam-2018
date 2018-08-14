@@ -26,7 +26,7 @@ player_value = ds_list_create();
 scrap_is_occupied = ds_list_create();
 scrap_value = ds_list_create();
 
-stats[? "balance"] = 10000;
+stats[? "balance"] = 20000;
 stats[? "income"] = 0;
 stats[? "expenses"] = 0;
 
