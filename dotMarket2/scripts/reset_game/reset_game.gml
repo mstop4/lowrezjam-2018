@@ -60,5 +60,4 @@ price_delta_fail = -1;
 num_sims_per_day = 100;
 
 alarm[0] = update_interval;
-new_index = 0;
 }

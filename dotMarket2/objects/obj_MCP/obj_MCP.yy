@@ -95,16 +95,6 @@
             "m_owner": "59910c8e-c054-47e5-a738-264fc2495fa7"
         },
         {
-            "id": "43d5cd16-7423-4a1e-8840-d4b287de96d3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
-            "eventtype": 9,
-            "m_owner": "59910c8e-c054-47e5-a738-264fc2495fa7"
-        },
-        {
             "id": "acedd012-b5c7-4f33-9949-0f6deb1ad31b",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -115,13 +105,33 @@
             "m_owner": "59910c8e-c054-47e5-a738-264fc2495fa7"
         },
         {
-            "id": "6dcd9fa8-b8d6-4418-aecb-913a2e7560e8",
+            "id": "49a89438-2ec3-4703-9d18-fa052838243c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 37,
             "eventtype": 9,
+            "m_owner": "59910c8e-c054-47e5-a738-264fc2495fa7"
+        },
+        {
+            "id": "ac8a2fc9-db6a-45da-95bd-8daea1adfdab",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 39,
+            "eventtype": 9,
+            "m_owner": "59910c8e-c054-47e5-a738-264fc2495fa7"
+        },
+        {
+            "id": "cfcbeab4-8bbc-4144-af66-be892730799d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
             "m_owner": "59910c8e-c054-47e5-a738-264fc2495fa7"
         }
     ],
@@ -182,6 +192,20 @@
             "resourceFilter": 1023,
             "value": "3600",
             "varName": "update_interval",
+            "varType": 1
+        },
+        {
+            "id": "736284f8-7499-4140-8e35-852c8e02b263",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "max_scrap_add",
             "varType": 1
         }
     ],

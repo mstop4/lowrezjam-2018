@@ -7,4 +7,3 @@ randomize();
 #macro PATTERNS_MASK "*.pat"
 
 global.fnt_pix = font_add_sprite_ext(spr_font,"ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'.- /",false,1);
-new_index = 0;

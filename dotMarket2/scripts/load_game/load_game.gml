@@ -29,8 +29,6 @@ if (file_exists(_file_path)) {
 		file_text_readln(file);
 		alarm[0] = file_text_read_real(file);
 		file_text_readln(file);
-		new_index = file_text_read_real(file);
-		file_text_readln(file);
 	
 		for (var i=0; i<paletteColour.maxi; i++) {
 			ds_list_read(price_history[i], file_text_read_string(file));

@@ -913,6 +913,25 @@
             }
         },
         {
+            "Key": "578eb759-0f06-49d3-b5ae-c3e110a7c91e",
+            "Value": {
+                "id": "286b0c6d-38ce-4514-a689-ab5cc84b101a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/new_scrap\/new_scrap.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "582a35a9-fbc2-4fa3-b4a0-b64ce5faa14e",
             "Value": {
                 "id": "014e4f97-12b2-4b3c-a3ff-f8cad8f52565",
@@ -1331,6 +1350,25 @@
             }
         },
         {
+            "Key": "81a1d06e-5414-4481-89b1-277d4778e182",
+            "Value": {
+                "id": "68cc5529-26a3-4a9c-9191-b23abf8d8ac1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_menu_menu\/obj_menu_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "81e79b22-8264-4626-b185-4f405a748c72",
             "Value": {
                 "id": "1075b262-796d-4d52-be71-b349d6ea5da7",
@@ -1575,6 +1613,25 @@
                 ],
                 "resourcePath": "sprites\/spr_frame_custom\/spr_frame_custom.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "99ee2da3-5def-41d7-a950-abe16c35986a",
+            "Value": {
+                "id": "10647cd6-f7a8-4083-a347-c18eb0d7612d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/new_dot_prices\/new_dot_prices.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -2506,7 +2563,9 @@
         "24a1917b-f888-4e17-b67b-6f807e20e0a6",
         "b874cfd5-d3d0-4bb3-8d4e-57fbacb7ea6f",
         "112c2653-a539-4059-acc6-4ee3546bf4dd",
-        "4a43c660-e203-4836-bdc5-ad4a29c59276"
+        "4a43c660-e203-4836-bdc5-ad4a29c59276",
+        "99ee2da3-5def-41d7-a950-abe16c35986a",
+        "578eb759-0f06-49d3-b5ae-c3e110a7c91e"
     ],
     "tutorial": ""
 }

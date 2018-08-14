@@ -29,8 +29,6 @@ with (obj_MCP) {
 	file_text_writeln(file);
 	file_text_write_real(file,alarm[0]);
 	file_text_writeln(file);
-	file_text_write_real(file,new_index);
-	file_text_writeln(file);
 
 	for (var i=0; i<paletteColour.maxi; i++) {
 		file_text_write_string(file,ds_list_write(price_history[i]));
