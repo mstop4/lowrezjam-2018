@@ -1,1 +1,1 @@
-ship_button = instance_create_layer(1,48,"Store",obj_scrap_ship_button);
+ship_button = instance_create_layer(16,52,"Store",obj_scrap_ship_button);

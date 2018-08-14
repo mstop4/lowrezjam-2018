@@ -16,5 +16,5 @@ for (var i=0; i<2; i++) {
 }
 
 
-buy_button = instance_create_layer(16,50,"Menu",obj_scrap_goto_buy_button);
+buy_button = instance_create_layer(16,52,"Menu",obj_scrap_goto_buy_button);
 alarm[0] = 1;

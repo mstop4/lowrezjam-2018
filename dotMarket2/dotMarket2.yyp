@@ -959,6 +959,14 @@
             }
         },
         {
+            "Key": "e81102bd-628d-4c42-bce5-1c13c4bc6088",
+            "Value": {
+                "id": "911f77af-31b1-46af-ab12-d1f674431a04",
+                "resourcePath": "objects\\obj_market_back_button\\obj_market_back_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea54ec69-a606-4ddc-b52d-5c7e5935af5a",
             "Value": {
                 "id": "e8154a51-dbe5-46cd-b216-a3a59b746140",
