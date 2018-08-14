@@ -18,8 +18,7 @@ if (enabled) {
 	save_game(SAVE_PATH);
 	
 	with (obj_scrap_store_display) {
-		render_grid(obj_MCP.player_storage[my_index],pattern_surf);
-		selected = false;
+		event_perform(ev_alarm,0);
 	}
 		
 	obj_scrap.ship_pattern = -1;

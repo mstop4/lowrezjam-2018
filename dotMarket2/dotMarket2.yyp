@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "68760110-b8d5-4185-a378-dc278e16975d",
+            "Value": {
+                "id": "0a9e99e5-c41d-4512-993d-32a38d22a2a5",
+                "resourcePath": "views\\68760110-b8d5-4185-a378-dc278e16975d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6bdeb98e-89ad-40be-9d92-afc033ad951b",
             "Value": {
                 "id": "3cad30c8-5c38-4590-b87e-53cf086b3d0b",
@@ -543,6 +551,14 @@
             }
         },
         {
+            "Key": "7ab6d211-16d2-47f8-80b0-74346802779d",
+            "Value": {
+                "id": "fc8ea1de-cade-49f1-bcdc-e97eef0b1101",
+                "resourcePath": "objects\\obj_menu_sell\\obj_menu_sell.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7bac2a28-c840-4e21-b55b-da04dd2a7bcc",
             "Value": {
                 "id": "2e17525b-4d78-4618-874f-056304615ea1",
@@ -599,6 +615,14 @@
             }
         },
         {
+            "Key": "907aa45b-61be-4f27-bb30-df29ccbde909",
+            "Value": {
+                "id": "a0788004-71c1-4589-a51e-8924480728e3",
+                "resourcePath": "objects\\obj_menu_sell_confirm_button\\obj_menu_sell_confirm_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "911d3985-bb00-4221-9ab8-8c6f2c4bb8c4",
             "Value": {
                 "id": "948d607f-e78e-49fa-a122-50039a8f95a5",
@@ -612,6 +636,14 @@
                 "id": "60a1dc60-f8e0-46f9-a7cf-4cd70ea88e94",
                 "resourcePath": "views\/955f2b0d-e4d4-4e50-9896-8a03e9574a17.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "97187184-6b1e-4323-a747-ed3b429cc486",
+            "Value": {
+                "id": "44b5b307-d93f-4cb9-82fc-c8fd01af2283",
+                "resourcePath": "objects\\obj_menu_sell_cancel_button\\obj_menu_sell_cancel_button.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -676,6 +708,14 @@
                 "id": "f4b44198-ec6b-42c5-a60d-2cbf9390fc81",
                 "resourcePath": "options\/amazonfire\/options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a7999e39-6bf9-4667-a8fb-5f32517b8be1",
+            "Value": {
+                "id": "59c0e6c7-a118-4870-9f4b-6ba49e3edb20",
+                "resourcePath": "sprites\\bck_sell\\bck_sell.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -820,6 +860,14 @@
                 "id": "4ab84bf3-ffaa-44e3-bf71-15660b8810fb",
                 "resourcePath": "objects\/obj_button\/obj_button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cef379a1-f531-4088-9dba-0bde6698d07d",
+            "Value": {
+                "id": "6880ca12-71b3-49d5-a8df-f3ba58f2ec75",
+                "resourcePath": "views\\cef379a1-f531-4088-9dba-0bde6698d07d.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

@@ -1,53 +1,53 @@
 {
-    "id": "bdda7e19-ae25-4077-82bb-ee9ae025e7e1",
+    "id": "907aa45b-61be-4f27-bb30-df29ccbde909",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_sell_button",
+    "name": "obj_menu_sell_confirm_button",
     "eventList": [
         {
-            "id": "9b3cd5d1-3853-4140-b452-648b3ee35c59",
+            "id": "3f48ae08-cbab-4b38-ae4d-108e9b0793cd",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 7,
             "eventtype": 6,
-            "m_owner": "bdda7e19-ae25-4077-82bb-ee9ae025e7e1"
+            "m_owner": "907aa45b-61be-4f27-bb30-df29ccbde909"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "2d416efd-a1ed-4c2d-a1c0-062da368ecaa",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
-            "propertyId": "a379a2be-af0b-4246-9364-dc2382758eba",
-            "value": "\"Sell\""
-        },
-        {
-            "id": "0da23a50-0f9e-4715-a1ca-b4d752ce124a",
-            "modelName": "GMOverriddenProperty",
-            "mvc": "1.0",
-            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
-            "propertyId": "f401e1ec-ff58-4e8f-99f5-1fc72bfbf011",
-            "value": "\"Sell_Back\""
-        },
-        {
-            "id": "33d523cb-348f-4753-bab9-e2091eb2e733",
+            "id": "8b52c8ba-9257-4180-929b-0ae0a06f6845",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "85193fda-8f2e-42fa-95f5-e4c8d8754abc",
-            "value": "\"Menu\""
+            "value": "\"Sell\""
         },
         {
-            "id": "d9815088-185e-414c-82ca-fbebdd4047ea",
+            "id": "c6792c7e-a54e-40f9-94c9-703f1e693a60",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "f401e1ec-ff58-4e8f-99f5-1fc72bfbf011",
+            "value": "\"Menu_Back\""
+        },
+        {
+            "id": "512113e7-c4f0-4ca3-9eae-9706082fab09",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
             "propertyId": "30947362-f90d-405e-9b0c-20a5a442668b",
-            "value": "\"Menu_Back\""
+            "value": "\"Sell_Back\""
+        },
+        {
+            "id": "83f70f47-abf6-4a53-bbbb-c11dd6e5255b",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
+            "propertyId": "a379a2be-af0b-4246-9364-dc2382758eba",
+            "value": "\"Menu\""
         }
     ],
     "parentObjectId": "6c97c878-6496-4c1e-9589-4b51bcd63eaf",
