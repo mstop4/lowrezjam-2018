@@ -7,3 +7,11 @@ randomize();
 #macro PATTERNS_MASK "*.pat"
 
 global.fnt_pix = font_add_sprite_ext(spr_font,"ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'.- /",false,1);
+global.transition = false;
+
+trans_t = 0;
+trans_t_delta = 0;
+next_room = noone;
+
+timeline_index = tmln_transition_room;
+timeline_position = 0;

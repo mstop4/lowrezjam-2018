@@ -13,7 +13,7 @@ else {
 }
 
 if (obj_MCP.scrap_is_occupied[| my_index]) 
-	sprite_index = spr_frame_repair;
+	sprite_index = spr_frame_scrap_repair;
 
 else 
-	sprite_index = spr_frame_none;
+	sprite_index = spr_frame_scrap_none;

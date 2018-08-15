@@ -1,5 +1,7 @@
-reset_game();
-load_patterns();
-load_game(SAVE_PATH);
+if (!global.transition) {
+	reset_game();
+	load_patterns();
+	load_game(SAVE_PATH);
 
-room_goto(room_menu);
+	transition_to_room(room_menu);
+}
