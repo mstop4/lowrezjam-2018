@@ -286,6 +286,44 @@
             }
         },
         {
+            "Key": "1d066615-ae98-4f7f-955c-df1b328136f5",
+            "Value": {
+                "id": "5f95ec13-5720-472b-b685-3f664f8b070d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_market_button\/spr_market_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "21be0c0f-ca5c-48b3-92bc-0f7ce6666e98",
+            "Value": {
+                "id": "7bbde6a3-9314-4c1e-9ccb-84faf9184f76",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_scrap_button\/obj_scrap_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "239b8441-6383-44cd-9209-616426842749",
             "Value": {
                 "id": "f6969236-78f9-4744-900e-c5e94e424f75",
@@ -1274,6 +1312,25 @@
             }
         },
         {
+            "Key": "78089f65-e166-41b9-afbb-bf9a179ec7af",
+            "Value": {
+                "id": "7dc5e5e5-3146-4a6f-a3bc-a08fad1e702a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/obj_market_button\/obj_market_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7a64a901-553c-43e5-b83c-b614aa914f1d",
             "Value": {
                 "id": "fe5aae05-2daa-4921-9083-2cba3fc3c276",
@@ -1730,6 +1787,25 @@
             }
         },
         {
+            "Key": "a65aec1c-5b7f-4437-8cc3-fcdfac86d431",
+            "Value": {
+                "id": "9c187619-afc0-4fae-82c6-e0bf286a66a8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_sell_button\/spr_sell_button.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a7999e39-6bf9-4667-a8fb-5f32517b8be1",
             "Value": {
                 "id": "59c0e6c7-a118-4870-9f4b-6ba49e3edb20",
@@ -2012,6 +2088,25 @@
                 ],
                 "resourcePath": "views\/c56fb56c-3f07-4a52-b92d-75d813539df5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c9a48c67-e018-4679-a593-22975170a58a",
+            "Value": {
+                "id": "dfb5c26a-3e52-46a0-8d91-1575eb6d374e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_edit_button\/spr_edit_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2468,6 +2563,25 @@
                 ],
                 "resourcePath": "views\/f44ca94a-0202-47a6-bcc2-060e6fa92704.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f5ac11e6-5779-415d-a29c-fe2710feccb6",
+            "Value": {
+                "id": "7f11de93-02b6-4d20-ac05-cba82266a3d8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_scrap_button\/spr_scrap_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -69,6 +69,6 @@ with (obj_MCP) {
 		ds_list_destroy(_pixel_list);
 	
 		// evaluate price of pattern
-		scrap_value[| _new_index] = pattern_valuation(_cur_pattern) * random_range(min_mark, max_mark);
+		scrap_value[| _new_index] = round(pattern_valuation(_cur_pattern) * random_range(min_mark, max_mark));
 	}
 }

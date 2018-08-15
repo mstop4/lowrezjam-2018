@@ -1,20 +1,20 @@
 {
-    "id": "2f4039cd-25f6-46b5-aef5-9d8fdc413a17",
+    "id": "21be0c0f-ca5c-48b3-92bc-0f7ce6666e98",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_edit_button",
+    "name": "obj_scrap_button",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "508a8865-2ef5-43d0-a730-5269e8786085",
+            "id": "f1b648e5-74ad-4c20-8cc2-7d502b9930f6",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
             "propertyId": "b4ac2699-e02f-4319-be90-c84964baab1b",
-            "value": "room_design"
+            "value": "room_scrap"
         }
     ],
     "parentObjectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c9a48c67-e018-4679-a593-22975170a58a",
+    "spriteId": "f5ac11e6-5779-415d-a29c-fe2710feccb6",
     "visible": true
 }

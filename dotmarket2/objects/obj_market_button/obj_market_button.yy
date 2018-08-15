@@ -1,20 +1,20 @@
 {
-    "id": "2f4039cd-25f6-46b5-aef5-9d8fdc413a17",
+    "id": "78089f65-e166-41b9-afbb-bf9a179ec7af",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_edit_button",
+    "name": "obj_market_button",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "508a8865-2ef5-43d0-a730-5269e8786085",
+            "id": "0779bc20-16ae-4a1f-b183-429f887a3167",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
             "propertyId": "b4ac2699-e02f-4319-be90-c84964baab1b",
-            "value": "room_design"
+            "value": "room_market"
         }
     ],
     "parentObjectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c9a48c67-e018-4679-a593-22975170a58a",
+    "spriteId": "1d066615-ae98-4f7f-955c-df1b328136f5",
     "visible": true
 }
