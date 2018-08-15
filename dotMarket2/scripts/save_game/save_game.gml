@@ -17,6 +17,10 @@ with (obj_MCP) {
 	file_text_writeln(file);
 	file_text_write_string(file,ds_list_write(dot_fair_price));
 	file_text_writeln(file);
+	file_text_write_string(file,ds_list_write(flux_state));
+	file_text_writeln(file);
+	file_text_write_string(file,ds_list_write(flux_cooldown));
+	file_text_writeln(file);	
 	file_text_write_string(file,ds_list_write(player_has_goal));
 	file_text_writeln(file);
 	file_text_write_string(file,ds_list_write(player_is_occupied));

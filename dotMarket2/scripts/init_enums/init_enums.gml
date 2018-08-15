@@ -31,3 +31,8 @@ enum buttonState {
 	clicked,
 	selected
 }
+
+enum fluxState {
+	normal,
+	abnormal
+}

@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "493ebefc-d62c-4695-a2b8-6304831e1a51",
+            "Value": {
+                "id": "bdde1141-b055-4e58-91dd-f46eb41df347",
+                "resourcePath": "sprites\\bck_scrap\\bck_scrap.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a43c660-e203-4836-bdc5-ad4a29c59276",
             "Value": {
                 "id": "a83adb65-ae40-46ab-970f-9a3a594c1eee",

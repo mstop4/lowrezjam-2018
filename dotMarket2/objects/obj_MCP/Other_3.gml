@@ -10,6 +10,8 @@ ds_list_destroy(dot_price);
 ds_list_destroy(dot_fair_price);
 ds_list_destroy(player_has_goal);
 ds_list_destroy(player_value);
+ds_list_destroy(flux_state);
+ds_list_destroy(flux_cooldown);
 ds_list_destroy(scrap_is_occupied);
 ds_list_destroy(scrap_value);
 

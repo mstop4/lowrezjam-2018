@@ -17,6 +17,10 @@ if (file_exists(_file_path)) {
 		file_text_readln(file);
 		ds_list_read(dot_fair_price, file_text_read_string(file));
 		file_text_readln(file);
+		ds_list_read(flux_state, file_text_read_string(file));
+		file_text_readln(file);
+		ds_list_read(flux_cooldown, file_text_read_string(file));
+		file_text_readln(file);
 		ds_list_read(player_has_goal, file_text_read_string(file));
 		file_text_readln(file);
 		ds_list_read(player_is_occupied, file_text_read_string(file));
