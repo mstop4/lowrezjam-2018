@@ -1502,6 +1502,25 @@
             }
         },
         {
+            "Key": "66242381-906c-4fac-8495-103057448f42",
+            "Value": {
+                "id": "5bfdd5e1-49b1-4a6d-a405-4743ba670131",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_sale\/snd_sale.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "68760110-b8d5-4185-a378-dc278e16975d",
             "Value": {
                 "id": "0a9e99e5-c41d-4512-993d-32a38d22a2a5",
@@ -3551,6 +3570,25 @@
                 ],
                 "resourcePath": "objects\/obj_confirm_reset\/obj_confirm_reset.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fdb08aae-1a60-4760-9c61-998cdb2e0717",
+            "Value": {
+                "id": "e717b5f3-7585-4772-823c-d7a12856107e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spr_cursor\/spr_cursor.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

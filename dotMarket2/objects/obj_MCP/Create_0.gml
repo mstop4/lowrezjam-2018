@@ -17,3 +17,5 @@ next_music = noone;
 
 timeline_index = tmln_transition_room;
 timeline_position = 0;
+
+window_set_cursor(cr_none);

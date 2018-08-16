@@ -1,7 +1,9 @@
-if (!selected) {
-	selected = true;
-}
+if (!global.transition && enabled) {
+	if (!selected) {
+		selected = true;
+	}
 
-else {
-	selected = false;
+	else {
+		selected = false;
+	}
 }

@@ -10,5 +10,6 @@ if (enabled) {
 	}
 	
 	obj_menu.alarm[0] = 1;
+	audio_play_sound(snd_sale,50,false);
 }
 event_inherited();

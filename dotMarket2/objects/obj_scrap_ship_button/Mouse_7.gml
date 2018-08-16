@@ -37,6 +37,7 @@ if (enabled) {
 	
 	io_clear();
 		
+	audio_play_sound(snd_sale,1,false);
 	image_index = 0;
 }
 

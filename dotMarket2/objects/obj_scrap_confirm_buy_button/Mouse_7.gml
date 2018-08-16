@@ -9,6 +9,7 @@ if (enabled) {
 		instance_activate_layer(dest_layer_id);
 
 		io_clear();
+		audio_play_sound(snd_click1,1,false);
 		image_index = 0;
 	}
 }
