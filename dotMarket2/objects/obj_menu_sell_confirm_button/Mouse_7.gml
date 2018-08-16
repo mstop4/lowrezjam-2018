@@ -1,6 +1,7 @@
 if (enabled) {
 	with (obj_MCP) {
 		stats[? "balance"] += obj_menu.sell_price;
+		stats[? "income"] += obj_menu.sell_price;
 		ds_grid_clear(player_storage[current_pattern],0);
 		ds_grid_clear(player_goal[current_pattern],0);
 		player_has_goal[| current_pattern] = false;

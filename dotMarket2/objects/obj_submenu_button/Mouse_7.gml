@@ -8,5 +8,6 @@ if (!global.transition && enabled) {
 	instance_activate_layer(dest_layer_id);
 
 	io_clear();
-	event_inherited();
 }
+
+event_inherited();

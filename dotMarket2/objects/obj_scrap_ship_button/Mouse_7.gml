@@ -13,6 +13,7 @@ if (enabled) {
 		ds_grid_clear(scrap_goal[_src],0);
 		scrap_is_occupied[| _src] = false;
 		stats[? "balance"] -= scrap_value[| _src];
+		stats[? "expenses"] += scrap_value[| _src];
 		scrap_value[| _src] = 0;
 	}
 	save_game(SAVE_PATH);

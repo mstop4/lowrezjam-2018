@@ -1,0 +1,1 @@
+image_index = 8 - (obj_MCP.alarm[0] / obj_MCP.update_interval) * 8;
