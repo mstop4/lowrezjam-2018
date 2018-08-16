@@ -1,1 +1,1 @@
-//stats[? "balance"] = get_integer("Monay!", 15000000);
+stats[? "balance"] = get_integer("Monay!", 15000000);

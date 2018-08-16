@@ -1,1 +1,1 @@
-//new_scrap(3);
+new_scrap(3);

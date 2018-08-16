@@ -1,1 +1,1 @@
-//new_dot_prices();
+new_dot_prices();
