@@ -1367,6 +1367,22 @@
             }
         },
         {
+            "Key": "f0f06eb5-4c5e-4757-bd5c-fa2a51d765ee",
+            "Value": {
+                "id": "d096a2fe-c248-4422-a975-ed9a7b947665",
+                "resourcePath": "sprites\\bck_title_text1\\bck_title_text1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f2c29c44-0df8-4908-b30d-8797fd75e1f2",
+            "Value": {
+                "id": "beabf312-7fbf-47ed-9ce4-5f9c67904404",
+                "resourcePath": "sprites\\bck_title_text2\\bck_title_text2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f3917e7b-95e1-47cb-884c-1b09b8774860",
             "Value": {
                 "id": "70ebfc88-a251-42f1-95b2-ea25fde949df",
