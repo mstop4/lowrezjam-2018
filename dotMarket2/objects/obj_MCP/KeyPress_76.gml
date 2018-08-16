@@ -1,6 +1,6 @@
-var fn = get_open_filename(".dat","save.dat");
+/*var fn = get_open_filename(".dat","save.dat");
 
 print(fn);
 
 if (fn != "")
-	load_game(fn);
+	load_game(fn);*/
