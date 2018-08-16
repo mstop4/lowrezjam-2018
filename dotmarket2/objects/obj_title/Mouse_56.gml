@@ -3,5 +3,5 @@ if (!global.transition) {
 	load_patterns();
 	load_game(SAVE_PATH);
 
-	transition_to_room(room_menu);
+	transition_to_room(room_menu,mus_title,mus_menu);
 }

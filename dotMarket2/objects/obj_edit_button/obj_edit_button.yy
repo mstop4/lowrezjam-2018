@@ -15,6 +15,22 @@
             "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
             "propertyId": "b4ac2699-e02f-4319-be90-c84964baab1b",
             "value": "room_design"
+        },
+        {
+            "id": "963c1521-bd70-4c53-b537-c248ee86fdae",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
+            "propertyId": "601ebd93-cbfd-4c7f-afe1-c5bf32a971fe",
+            "value": "mus_menu"
+        },
+        {
+            "id": "0843ad50-14f0-4ea9-91eb-7d8c9128d457",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
+            "propertyId": "08740771-5665-476a-a403-98b9ec486ab2",
+            "value": "mus_edit"
         }
     ],
     "parentObjectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",

@@ -45,6 +45,34 @@
             "value": "room_menu",
             "varName": "next_room",
             "varType": 5
+        },
+        {
+            "id": "601ebd93-cbfd-4c7f-afe1-c5bf32a971fe",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 4,
+            "value": "mus_market",
+            "varName": "cur_music",
+            "varType": 5
+        },
+        {
+            "id": "08740771-5665-476a-a403-98b9ec486ab2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 4,
+            "value": "mus_menu",
+            "varName": "next_music",
+            "varType": 5
         }
     ],
     "solid": false,

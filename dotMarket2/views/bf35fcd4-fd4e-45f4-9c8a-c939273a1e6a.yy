@@ -6,7 +6,9 @@
     "children": [
         "8a17fcd0-de72-448c-b9ee-a3cc7340ccad",
         "7c498bba-d7b9-4aca-ac45-3aaf5ec1854b",
-        "493ebefc-d62c-4695-a2b8-6304831e1a51"
+        "46128edd-c1a6-4b60-8bc3-648c9fd624dd",
+        "493ebefc-d62c-4695-a2b8-6304831e1a51",
+        "96760dae-98fd-403f-83db-ac51452d5f45"
     ],
     "filterType": "GMSprite",
     "folderName": "Scrap",

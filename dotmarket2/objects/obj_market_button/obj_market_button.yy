@@ -15,6 +15,22 @@
             "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
             "propertyId": "b4ac2699-e02f-4319-be90-c84964baab1b",
             "value": "room_market"
+        },
+        {
+            "id": "5fe0bc3f-b93b-4683-85cb-8ca13d8c9773",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
+            "propertyId": "601ebd93-cbfd-4c7f-afe1-c5bf32a971fe",
+            "value": "mus_menu"
+        },
+        {
+            "id": "c1c929d1-26a6-4649-a3f8-0ffd1ce28913",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",
+            "propertyId": "08740771-5665-476a-a403-98b9ec486ab2",
+            "value": "mus_market"
         }
     ],
     "parentObjectId": "74f74de7-9ca9-4fc0-9b03-40bcefb6b920",

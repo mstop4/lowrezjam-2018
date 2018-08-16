@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "3c87b650-3319-4f13-b9b6-f985a8fe89f8",
+            "Value": {
+                "id": "a126e840-96ed-4148-8f0c-4d30f2cdc232",
+                "resourcePath": "objects\\obj_scrap_menu_button\\obj_scrap_menu_button.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3cc153db-5622-4c6f-aa4f-874baa877f2e",
             "Value": {
                 "id": "5299c632-40b6-4c8c-8f6c-890ea650a39a",
@@ -396,6 +404,14 @@
                 "id": "02b0f169-6358-43b8-b1ce-0f61975c6954",
                 "resourcePath": "views\/41c34ec4-e32e-4f7e-8085-27852fa54026.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "46128edd-c1a6-4b60-8bc3-648c9fd624dd",
+            "Value": {
+                "id": "c18495e7-14db-4060-8bb1-1478dbbad3d1",
+                "resourcePath": "sprites\\bck_scrap_buy\\bck_scrap_buy.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -748,6 +764,14 @@
                 "id": "60a1dc60-f8e0-46f9-a7cf-4cd70ea88e94",
                 "resourcePath": "views\/955f2b0d-e4d4-4e50-9896-8a03e9574a17.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "96760dae-98fd-403f-83db-ac51452d5f45",
+            "Value": {
+                "id": "49e71aca-d660-41e2-96ba-41b3c30644af",
+                "resourcePath": "sprites\\spr_ship\\spr_ship.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1132,6 +1156,14 @@
                 "id": "2adea3fa-01c0-45a8-ab89-860a69f3147c",
                 "resourcePath": "options\/android\/options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e439c2ff-a0da-40c5-96b7-8cacde74adb0",
+            "Value": {
+                "id": "3147d0a4-3f9d-4788-b3c8-2e0ba6fc9844",
+                "resourcePath": "sprites\\spr_timer\\spr_timer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
