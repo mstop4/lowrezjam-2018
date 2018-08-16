@@ -1,4 +1,6 @@
 /// @arg room
+/// @arg current_music
+/// @arg next_music
 
 with (obj_MCP) {
 	cur_music = argument[1];
