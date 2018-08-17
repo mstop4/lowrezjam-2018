@@ -13,6 +13,7 @@ for (var i=0; i<num_patterns; i++) {
 
 var file = file_text_open_read("Patterns/apple.pat");
 var code = file_text_read_string(file);
+print(code);
 obj_MCP.patterns_library[0] = ds_grid_create(16,16);
 ds_grid_read(obj_MCP.patterns_library[0],code);
 file_text_close(file);
