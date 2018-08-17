@@ -6,5 +6,6 @@ draw_set_alpha(t3);
 
 draw_set_halign(fa_center);
 draw_set_font(global.fnt_pix);
+draw_set_colour(c_white);
 draw_text(32,56,"CLICK TO START");
 draw_set_alpha(1);
