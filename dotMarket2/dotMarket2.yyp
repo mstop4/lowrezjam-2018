@@ -2300,6 +2300,25 @@
             }
         },
         {
+            "Key": "a070a718-5c23-4449-82c8-4bfe5f36ca19",
+            "Value": {
+                "id": "bed16b8b-2e0d-416b-98e8-10c81c98c40b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/load_patterns_web\/load_patterns_web.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "f4b44198-ec6b-42c5-a60d-2cbf9390fc81",
@@ -3603,6 +3622,7 @@
         "acbcfe6c-a6cb-4a3c-8477-2798c5a4fabb",
         "efe5d045-377f-452f-b543-0204cb4e7bae",
         "26ec26c6-c348-4869-ab78-bb383b387d5d",
+        "a070a718-5c23-4449-82c8-4bfe5f36ca19",
         "2c99a3e2-7f57-4780-bc0b-fd72657a831c",
         "61b84a6e-1767-4233-a847-b9f424479956",
         "24a1917b-f888-4e17-b67b-6f807e20e0a6",

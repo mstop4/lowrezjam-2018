@@ -9,6 +9,18 @@ randomize();
 global.fnt_pix = font_add_sprite_ext(spr_font,"ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890'.- /",false,1);
 global.transition = false;
 
+
+global.pattern_files = [ 
+	"pizza.pat",
+	"dulcie.pat",
+	"apple.pat",
+	"orange.pat",
+	"banana.pat",
+	"blueberries.pat",
+	"lemon.pat",
+	"lime.pat"
+];
+
 trans_t = 0;
 trans_t_delta = 0;
 cur_music = noone;
@@ -18,4 +30,4 @@ next_music = noone;
 timeline_index = tmln_transition_room;
 timeline_position = 0;
 
-window_set_cursor(cr_none);
+//window_set_cursor(cr_none);
