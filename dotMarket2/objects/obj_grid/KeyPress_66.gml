@@ -1,4 +1,4 @@
-var fn = get_open_filename(".pat","pattern.pat");
+var fn = get_open_filename("pat","pattern.pat");
 
 if (fn != "") {
 	var file = file_text_open_read(fn);
