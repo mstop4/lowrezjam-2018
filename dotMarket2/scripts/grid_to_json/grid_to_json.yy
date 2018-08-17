@@ -1,8 +1,8 @@
 {
-    "id": "61b84a6e-1767-4233-a847-b9f424479956",
+    "id": "323a60b9-5246-4ff0-8208-c78b781dbc0b",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "update_child_component",
+    "name": "grid_to_json",
     "IsCompatibility": false,
     "IsDnD": false
 }
