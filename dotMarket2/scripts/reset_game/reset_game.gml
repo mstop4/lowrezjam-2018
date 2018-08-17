@@ -63,5 +63,6 @@ with (obj_MCP) {
 	price_delta_fail = -1;
 	num_sims_per_day = 20;
 
+	new_scrap(1);
 	alarm[0] = update_interval;
 }

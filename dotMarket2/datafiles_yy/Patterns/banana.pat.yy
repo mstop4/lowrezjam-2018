@@ -3,7 +3,7 @@
     "modelName": "GMIncludedFile",
     "mvc": "1.0",
     "name": "banana.pat",
-    "CopyToMask": -1,
+    "CopyToMask": 153720560310812878,
     "exists": false,
     "exportAction": 0,
     "exportDir": "",
