@@ -1,3 +1,4 @@
 *.stackdump
 .DS_Store
 *.dat
+node_modules/
