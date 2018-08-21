@@ -2,9 +2,12 @@
 
 var _file_path = argument[0];
 
+print("Checking for previous save data...");
 if (file_exists(_file_path)) {
+	print("Save data found.");
 	with (obj_MCP) {
 		var file = file_text_open_read(_file_path);
+		print("Loading save data...");
 
 		// Stats
 		ds_map_read(stats, file_text_read_string(file));
@@ -53,4 +56,8 @@ if (file_exists(_file_path)) {
 	
 		file_text_close(file);
 	}
+}
+
+else {
+	print("Save data not found.");
 }

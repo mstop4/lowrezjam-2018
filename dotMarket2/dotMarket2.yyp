@@ -991,6 +991,14 @@
             }
         },
         {
+            "Key": "9efcdaf8-d431-49a4-b7a6-ce1ff37c5655",
+            "Value": {
+                "id": "d6345d25-8680-48b8-9759-945fbf0108f4",
+                "resourcePath": "datafiles_yy\\save.dat.yy",
+                "resourceType": "GMIncludedFile"
+            }
+        },
+        {
             "Key": "9f517d2e-d9f2-4fec-85bc-5fad0fbbdc01",
             "Value": {
                 "id": "66f44b31-dd3b-4344-8439-d6d9cf155cf7",
